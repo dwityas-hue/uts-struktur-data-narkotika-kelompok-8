@@ -45,9 +45,20 @@ public class Putusan {
 
     public String getCaseId() { return caseId; }
     public String getNomorPerkara() { return nomorPerkara; }
+    public String getPengadilan() { return pengadilan; }
+    public LocalDate getTanggalPutusan() { return tanggalPutusan; }
+    public String getTerdakwaKode() { return terdakwaKode; }
     public String getJenisNarkotika() { return jenisNarkotika; }
+    public double getBeratBarangBuktiGram() { return beratBarangBuktiGram; }
+    public String getPasalDakwaan() { return pasalDakwaan; }
+    public String getPasalTerbukti() { return pasalTerbukti; }
+    public int getTuntutanBulan() { return tuntutanBulan; }
     public int getVonisBulan() { return vonisBulan; }
     public long getDendaRupiah() { return dendaRupiah; }
+    public String getBarangBukti() { return barangBukti; }
+    public String getKeadaanMemberatkan() { return keadaanMemberatkan; }
+    public String getKeadaanMeringankan() { return keadaanMeringankan; }
+    public String getSourcePages() { return sourcePages; }
 
     public String toCSV() {
         return caseId + "," + nomorPerkara + "," + pengadilan + "," + tanggalPutusan + "," +
@@ -55,5 +66,11 @@ public class Putusan {
                 pasalDakwaan + "," + pasalTerbukti + "," + tuntutanBulan + "," +
                 vonisBulan + "," + dendaRupiah + ",\"" + barangBukti + "\",\"" +
                 keadaanMemberatkan + "\",\"" + keadaanMeringankan + "\"," + sourcePages;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("[%s] %s | %s (%.2f gr) | Terbukti: %s | Vonis: %d bln",
+                caseId, nomorPerkara, jenisNarkotika, beratBarangBuktiGram, pasalTerbukti, vonisBulan);
     }
 }
