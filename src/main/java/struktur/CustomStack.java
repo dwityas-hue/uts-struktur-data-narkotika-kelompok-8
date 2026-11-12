@@ -12,7 +12,10 @@ public class CustomStack<T> {
         this.size = 0;
     }
 
+ feat/unit-tests-b
+
     // Menambahkan elemen ke atas stack
+
     public void push(T value) {
         if (value == null) {
             throw new IllegalArgumentException("Elemen yang dimasukkan tidak boleh null.");
@@ -23,18 +26,28 @@ public class CustomStack<T> {
         elements[size++] = value;
     }
 
+ feat/unit-tests-b
+
     // Mengambil dan menghapus elemen teratas stack
+
     @SuppressWarnings("unchecked")
     public T pop() {
         if (isEmpty()) {
             throw new EmptyStackException();
         }
         T value = (T) elements[--size];
+ feat/unit-tests-b
+        elements[size] = null;
+        return value;
+    }
+
+
         elements[size] = null; // Mencegah memory leak
         return value;
     }
 
     // Melihat elemen teratas tanpa menghapusnya
+
     @SuppressWarnings("unchecked")
     public T peek() {
         if (isEmpty()) {
@@ -51,9 +64,12 @@ public class CustomStack<T> {
         return size == 0;
     }
 
+ feat/unit-tests-b
+
     /**
      * Pencarian Non-Destruktif: Mencari elemen tanpa mengubah urutan Stack.
      */
+
     public boolean searchPreserve(T value) {
         if (value == null || isEmpty()) {
             return false;
@@ -74,18 +90,24 @@ public class CustomStack<T> {
         return found;
     }
 
+ feat/unit-tests-b
+
     /**
      * Memulihkan urutan asli dari stack sementara.
      */
+
     public void restore(CustomStack<T> tempStack) {
         while (!tempStack.isEmpty()) {
             this.push(tempStack.pop());
         }
     }
 
+ feat/unit-tests-b
+
     /**
      * Invariant check: size dalam batas valid dan tidak ada elemen null di bawah size.
      */
+
     public boolean validateInvariant() {
         if (size < 0 || size > elements.length) {
             return false;
