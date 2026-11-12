@@ -1,0 +1,351 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P026,nomorPerkara,123/Pid.Sus/2024/PN Bgl,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P026,pengadilan,Pengadilan Negeri Bangil,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P026,tanggalPutusan,2024-03-15,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P026,terdakwaKode,TDK-026,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P026,jenisNarkotika,Sabu,putusan_026.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P026,beratBarangBuktiGram,1.25,putusan_026.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P026,pasalDakwaan,Pasal 114 Ayat (1),putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P026,pasalTerbukti,Pasal 112 Ayat (1),putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
+P026,tuntutanBulan,72,putusan_026.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P026,vonisBulan,60,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
+P026,dendaRupiah,800000000,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
+P026,barangBukti,1 klip sabu dan HP,putusan_026.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P026,keadaanMemberatkan,Merusak generasi muda,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
+P026,keadaanMeringankan,Sopan dan mengakui perbuatan,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
+P027,nomorPerkara,45/Pid.Sus/2024/PN Bgl,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P027,pengadilan,Pengadilan Negeri Bangil,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P027,tanggalPutusan,2024-04-10,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P027,terdakwaKode,TDK-027,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P027,jenisNarkotika,Ganja,putusan_027.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P027,beratBarangBuktiGram,15.5,putusan_027.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P027,pasalDakwaan,Pasal 111 Ayat (1),putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P027,pasalTerbukti,Pasal 111 Ayat (1),putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P027,tuntutanBulan,48,putusan_027.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P027,vonisBulan,36,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P027,dendaRupiah,600000000,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P027,barangBukti,1 bungkus ganja kering,putusan_027.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P027,keadaanMemberatkan,Beredar di lingkungan kampus,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P027,keadaanMeringankan,Belum pernah dihukum,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P028,nomorPerkara,88/Pid.Sus/2024/PN Bgl,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P028,pengadilan,Pengadilan Negeri Bangil,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P028,tanggalPutusan,2024-05-20,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P028,terdakwaKode,TDK-028,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P028,jenisNarkotika,Ekstasi,putusan_028.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P028,beratBarangBuktiGram,0.8,putusan_028.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P028,pasalDakwaan,Pasal 114 Ayat (1),putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P028,pasalTerbukti,Pasal 112 Ayat (1),putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P028,tuntutanBulan,60,putusan_028.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P028,vonisBulan,48,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P028,dendaRupiah,800000000,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P028,barangBukti,2 butir pil ekstasi,putusan_028.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P028,keadaanMemberatkan,Residivis,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P028,keadaanMeringankan,Mengakui kesalahan,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P029,nomorPerkara,145/Pid.Sus/2024/PN Bgl,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P029,pengadilan,Pengadilan Negeri Bangil,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P029,tanggalPutusan,2024-07-11,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P029,terdakwaKode,TDK-029,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P029,jenisNarkotika,Sabu,putusan_029.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P029,beratBarangBuktiGram,0.95,putusan_029.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P029,pasalDakwaan,Pasal 114 Ayat (1),putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P029,pasalTerbukti,Pasal 112 Ayat (1),putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P029,tuntutanBulan,72,putusan_029.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
+P029,vonisBulan,60,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P029,dendaRupiah,800000000,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P029,barangBukti,1 bungkus klip sabu,putusan_029.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P029,keadaanMemberatkan,Perbuatan meresahkan,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P029,keadaanMeringankan,Sopan di sidang,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P030,nomorPerkara,201/Pid.Sus/2024/PN Bgl,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P030,pengadilan,Pengadilan Negeri Bangil,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P030,tanggalPutusan,2024-09-05,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P030,terdakwaKode,TDK-030,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P030,jenisNarkotika,Sabu,putusan_030.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P030,beratBarangBuktiGram,3.1,putusan_030.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P030,pasalDakwaan,Pasal 114 Ayat (2),putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P030,pasalTerbukti,Pasal 114 Ayat (2),putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
+P030,tuntutanBulan,108,putusan_030.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P030,vonisBulan,96,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
+P030,dendaRupiah,1000000000,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
+P030,barangBukti,Plastik bening sabu > 1 gram,putusan_030.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P030,keadaanMemberatkan,Jumlah barang bukti cukup besar,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
+P030,keadaanMeringankan,Mengaku bersalah,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
+P031,nomorPerkara,15/Pid.Sus/2021/PN Sby,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P031,pengadilan,Pengadilan Negeri Surabaya,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P031,tanggalPutusan,2021-02-04,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P031,terdakwaKode,TDK-031,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P031,jenisNarkotika,Sabu,putusan_031.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P031,beratBarangBuktiGram,0.55,putusan_031.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P031,pasalDakwaan,Pasal 114 Ayat (1),putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P031,pasalTerbukti,Pasal 112 Ayat (1),putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P031,tuntutanBulan,66,putusan_031.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P031,vonisBulan,54,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P031,dendaRupiah,800000000,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P031,barangBukti,1 klip sabu,putusan_031.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P031,keadaanMemberatkan,Menghambat program pemerintah,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P031,keadaanMeringankan,Sopan,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P032,nomorPerkara,112/Pid.Sus/2021/PN Sby,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P032,pengadilan,Pengadilan Negeri Surabaya,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P032,tanggalPutusan,2021-04-18,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P032,terdakwaKode,TDK-032,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P032,jenisNarkotika,Ganja,putusan_032.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P032,beratBarangBuktiGram,8.2,putusan_032.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P032,pasalDakwaan,Pasal 111 Ayat (1),putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P032,pasalTerbukti,Pasal 111 Ayat (1),putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P032,tuntutanBulan,48,putusan_032.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
+P032,vonisBulan,36,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P032,dendaRupiah,600000000,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P032,barangBukti,1 paket ganja,putusan_032.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P032,keadaanMemberatkan,Meresahkan masyarakat,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P032,keadaanMeringankan,Belum pernah dihukum,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P033,nomorPerkara,230/Pid.Sus/2021/PN Sby,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P033,pengadilan,Pengadilan Negeri Surabaya,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P033,tanggalPutusan,2021-07-22,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P033,terdakwaKode,TDK-033,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P033,jenisNarkotika,Sabu,putusan_033.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P033,beratBarangBuktiGram,1.8,putusan_033.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P033,pasalDakwaan,Pasal 114 Ayat (1),putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P033,pasalTerbukti,Pasal 114 Ayat (1),putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P033,tuntutanBulan,84,putusan_033.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
+P033,vonisBulan,72,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P033,dendaRupiah,1000000000,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P033,barangBukti,2 klip sabu,putusan_033.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P033,keadaanMemberatkan,Merusak generasi muda,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P033,keadaanMeringankan,Menyesali perbuatan,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P034,nomorPerkara,350/Pid.Sus/2021/PN Sby,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P034,pengadilan,Pengadilan Negeri Surabaya,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P034,tanggalPutusan,2021-10-15,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P034,terdakwaKode,TDK-034,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P034,jenisNarkotika,Ekstasi,putusan_034.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P034,beratBarangBuktiGram,1.5,putusan_034.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P034,pasalDakwaan,Pasal 114 Ayat (1),putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P034,pasalTerbukti,Pasal 112 Ayat (1),putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P034,tuntutanBulan,72,putusan_034.pdf,7,Vicka Dewi Anggraini,Anggota A,unverified
+P034,vonisBulan,60,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P034,dendaRupiah,800000000,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P034,barangBukti,4 butir ekstasi,putusan_034.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P034,keadaanMemberatkan,Perbuatan meresahkan,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P034,keadaanMeringankan,Tulang punggung keluarga,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P035,nomorPerkara,480/Pid.Sus/2021/PN Sby,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P035,pengadilan,Pengadilan Negeri Surabaya,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P035,tanggalPutusan,2021-12-08,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P035,terdakwaKode,TDK-035,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P035,jenisNarkotika,Sabu,putusan_035.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P035,beratBarangBuktiGram,0.22,putusan_035.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P035,pasalDakwaan,Pasal 114 Ayat (1),putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P035,pasalTerbukti,Pasal 112 Ayat (1),putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
+P035,tuntutanBulan,60,putusan_035.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P035,vonisBulan,48,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
+P035,dendaRupiah,800000000,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
+P035,barangBukti,1 paket hemat sabu,putusan_035.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P035,keadaanMemberatkan,Menghambat pemberantasan narkoba,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
+P035,keadaanMeringankan,Sopan,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
+P036,nomorPerkara,40/Pid.Sus/2022/PN Sby,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P036,pengadilan,Pengadilan Negeri Surabaya,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P036,tanggalPutusan,2022-02-17,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P036,terdakwaKode,TDK-036,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P036,jenisNarkotika,Sabu,putusan_036.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P036,beratBarangBuktiGram,0.65,putusan_036.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P036,pasalDakwaan,Pasal 114 Ayat (1),putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P036,pasalTerbukti,Pasal 112 Ayat (1),putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P036,tuntutanBulan,72,putusan_036.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
+P036,vonisBulan,60,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P036,dendaRupiah,800000000,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P036,barangBukti,1 klip sabu,putusan_036.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P036,keadaanMemberatkan,Tidak mendukung pemerintah,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P036,keadaanMeringankan,Mengaku bersalah,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P037,nomorPerkara,165/Pid.Sus/2022/PN Sby,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P037,pengadilan,Pengadilan Negeri Surabaya,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P037,tanggalPutusan,2022-05-11,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P037,terdakwaKode,TDK-037,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P037,jenisNarkotika,Ganja,putusan_037.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P037,beratBarangBuktiGram,45.0,putusan_037.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P037,pasalDakwaan,Pasal 111 Ayat (1),putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P037,pasalTerbukti,Pasal 111 Ayat (1),putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P037,tuntutanBulan,72,putusan_037.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P037,vonisBulan,60,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P037,dendaRupiah,800000000,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P037,barangBukti,1 bata ganja press,putusan_037.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P037,keadaanMemberatkan,Barang bukti relatif banyak,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P037,keadaanMeringankan,Belum pernah dihukum,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P038,nomorPerkara,290/Pid.Sus/2022/PN Sby,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P038,pengadilan,Pengadilan Negeri Surabaya,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P038,tanggalPutusan,2022-08-20,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P038,terdakwaKode,TDK-038,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P038,jenisNarkotika,Sabu,putusan_038.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P038,beratBarangBuktiGram,0.38,putusan_038.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P038,pasalDakwaan,Pasal 114 Ayat (1),putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P038,pasalTerbukti,Pasal 112 Ayat (1),putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P038,tuntutanBulan,60,putusan_038.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P038,vonisBulan,48,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P038,dendaRupiah,800000000,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P038,barangBukti,1 klip sabu dan alat hisap,putusan_038.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P038,keadaanMemberatkan,Meresahkan masyarakat,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P038,keadaanMeringankan,Sopan dan jujur,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P039,nomorPerkara,410/Pid.Sus/2022/PN Sby,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P039,pengadilan,Pengadilan Negeri Surabaya,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P039,tanggalPutusan,2022-11-04,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P039,terdakwaKode,TDK-039,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P039,jenisNarkotika,Sabu,putusan_039.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P039,beratBarangBuktiGram,2.1,putusan_039.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P039,pasalDakwaan,Pasal 114 Ayat (1),putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P039,pasalTerbukti,Pasal 114 Ayat (1),putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P039,tuntutanBulan,96,putusan_039.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
+P039,vonisBulan,84,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P039,dendaRupiah,1000000000,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P039,barangBukti,3 kantong klip sabu,putusan_039.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P039,keadaanMemberatkan,Merusak program pemerintah,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P039,keadaanMeringankan,Menyesali kesalahan,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
+P040,nomorPerkara,525/Pid.Sus/2022/PN Sby,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P040,pengadilan,Pengadilan Negeri Surabaya,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P040,tanggalPutusan,2022-12-19,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P040,terdakwaKode,TDK-040,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P040,jenisNarkotika,Ekstasi,putusan_040.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P040,beratBarangBuktiGram,0.6,putusan_040.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P040,pasalDakwaan,Pasal 114 Ayat (1),putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P040,pasalTerbukti,Pasal 112 Ayat (1),putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P040,tuntutanBulan,60,putusan_040.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P040,vonisBulan,48,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P040,dendaRupiah,800000000,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P040,barangBukti,2 butir ekstasi,putusan_040.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P040,keadaanMemberatkan,Perbuatan meresahkan,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P040,keadaanMeringankan,Kooperatif,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P041,nomorPerkara,33/Pid.Sus/2023/PN Mlg,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P041,pengadilan,Pengadilan Negeri Malang,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P041,tanggalPutusan,2023-01-26,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P041,terdakwaKode,TDK-041,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P041,jenisNarkotika,Sabu,putusan_041.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P041,beratBarangBuktiGram,0.48,putusan_041.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P041,pasalDakwaan,Pasal 114 Ayat (1),putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P041,pasalTerbukti,Pasal 112 Ayat (1),putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P041,tuntutanBulan,60,putusan_041.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P041,vonisBulan,48,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P041,dendaRupiah,800000000,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P041,barangBukti,1 bungkus sabu,putusan_041.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P041,keadaanMemberatkan,Tidak mendukung pemberantasan narkotika,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P041,keadaanMeringankan,Sopan di sidang,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P042,nomorPerkara,105/Pid.Sus/2023/PN Mlg,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P042,pengadilan,Pengadilan Negeri Malang,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P042,tanggalPutusan,2023-03-30,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P042,terdakwaKode,TDK-042,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P042,jenisNarkotika,Ganja,putusan_042.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P042,beratBarangBuktiGram,11.2,putusan_042.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P042,pasalDakwaan,Pasal 111 Ayat (1),putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P042,pasalTerbukti,Pasal 111 Ayat (1),putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P042,tuntutanBulan,48,putusan_042.pdf,7,Vicka Dewi Anggraini,Anggota A,unverified
+P042,vonisBulan,36,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P042,dendaRupiah,600000000,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P042,barangBukti,1 paket ganja kering,putusan_042.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P042,keadaanMemberatkan,Beredar di pemuda,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P042,keadaanMeringankan,Belum pernah dihukum,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P043,nomorPerkara,210/Pid.Sus/2023/PN Mlg,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P043,pengadilan,Pengadilan Negeri Malang,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P043,tanggalPutusan,2023-06-15,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P043,terdakwaKode,TDK-043,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P043,jenisNarkotika,Sabu,putusan_043.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P043,beratBarangBuktiGram,1.05,putusan_043.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P043,pasalDakwaan,Pasal 114 Ayat (1),putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P043,pasalTerbukti,Pasal 114 Ayat (1),putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P043,tuntutanBulan,84,putusan_043.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
+P043,vonisBulan,72,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P043,dendaRupiah,1000000000,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P043,barangBukti,1 klip sabu dan HP,putusan_043.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P043,keadaanMemberatkan,Merusak generasi muda,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P043,keadaanMeringankan,Mengaku terus terang,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P044,nomorPerkara,320/Pid.Sus/2023/PN Mlg,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P044,pengadilan,Pengadilan Negeri Malang,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P044,tanggalPutusan,2023-08-28,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P044,terdakwaKode,TDK-044,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P044,jenisNarkotika,Sabu,putusan_044.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P044,beratBarangBuktiGram,0.29,putusan_044.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P044,pasalDakwaan,Pasal 114 Ayat (1),putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P044,pasalTerbukti,Pasal 112 Ayat (1),putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P044,tuntutanBulan,60,putusan_044.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P044,vonisBulan,48,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P044,dendaRupiah,800000000,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P044,barangBukti,1 klip kecil sabu,putusan_044.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P044,keadaanMemberatkan,Meresahkan masyarakat,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P044,keadaanMeringankan,Menyesal,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P045,nomorPerkara,430/Pid.Sus/2023/PN Mlg,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P045,pengadilan,Pengadilan Negeri Malang,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P045,tanggalPutusan,2023-11-12,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P045,terdakwaKode,TDK-045,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P045,jenisNarkotika,Ekstasi,putusan_045.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P045,beratBarangBuktiGram,0.9,putusan_045.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P045,pasalDakwaan,Pasal 114 Ayat (1),putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P045,pasalTerbukti,Pasal 112 Ayat (1),putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P045,tuntutanBulan,66,putusan_045.pdf,7,Vicka Dewi Anggraini,Anggota A,unverified
+P045,vonisBulan,54,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P045,dendaRupiah,800000000,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P045,barangBukti,2 butir ekstasi,putusan_045.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P045,keadaanMemberatkan,Menghambat program pemerintah,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P045,keadaanMeringankan,Tulang punggung keluarga,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
+P046,nomorPerkara,52/Pid.Sus/2024/PN Mlg,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P046,pengadilan,Pengadilan Negeri Malang,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P046,tanggalPutusan,2024-02-05,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P046,terdakwaKode,TDK-046,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P046,jenisNarkotika,Sabu,putusan_046.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P046,beratBarangBuktiGram,0.77,putusan_046.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P046,pasalDakwaan,Pasal 114 Ayat (1),putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P046,pasalTerbukti,Pasal 112 Ayat (1),putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P046,tuntutanBulan,72,putusan_046.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
+P046,vonisBulan,60,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P046,dendaRupiah,800000000,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P046,barangBukti,1 klip sabu,putusan_046.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P046,keadaanMemberatkan,Perbuatan meresahkan,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P046,keadaanMeringankan,Sopan,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
+P047,nomorPerkara,160/Pid.Sus/2024/PN Mlg,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P047,pengadilan,Pengadilan Negeri Malang,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P047,tanggalPutusan,2024-04-22,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P047,terdakwaKode,TDK-047,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P047,jenisNarkotika,Ganja,putusan_047.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P047,beratBarangBuktiGram,6.8,putusan_047.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P047,pasalDakwaan,Pasal 111 Ayat (1),putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P047,pasalTerbukti,Pasal 111 Ayat (1),putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P047,tuntutanBulan,48,putusan_047.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
+P047,vonisBulan,36,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P047,dendaRupiah,600000000,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P047,barangBukti,1 bungkus kertas ganja,putusan_047.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
+P047,keadaanMemberatkan,Merusak generasi muda,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P047,keadaanMeringankan,Belum pernah dihukum,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
+P048,nomorPerkara,275/Pid.Sus/2024/PN Mlg,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P048,pengadilan,Pengadilan Negeri Malang,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P048,tanggalPutusan,2024-07-16,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P048,terdakwaKode,TDK-048,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P048,jenisNarkotika,Sabu,putusan_048.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P048,beratBarangBuktiGram,4.5,putusan_048.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P048,pasalDakwaan,Pasal 114 Ayat (2),putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P048,pasalTerbukti,Pasal 112 Ayat (2),putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P048,tuntutanBulan,108,putusan_048.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
+P048,vonisBulan,96,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P048,dendaRupiah,1000000000,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P048,barangBukti,Plastik bening sabu > 1 gram,putusan_048.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P048,keadaanMemberatkan,Jumlah barang bukti besar,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P048,keadaanMeringankan,Mengaku bersalah,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
+P049,nomorPerkara,380/Pid.Sus/2024/PN Mlg,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P049,pengadilan,Pengadilan Negeri Malang,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P049,tanggalPutusan,2024-09-29,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P049,terdakwaKode,TDK-049,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P049,jenisNarkotika,Sabu,putusan_049.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P049,beratBarangBuktiGram,0.31,putusan_049.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P049,pasalDakwaan,Pasal 114 Ayat (1),putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
+P049,pasalTerbukti,Pasal 112 Ayat (1),putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P049,tuntutanBulan,60,putusan_049.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P049,vonisBulan,48,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P049,dendaRupiah,800000000,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P049,barangBukti,1 klip sabu,putusan_049.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P049,keadaanMemberatkan,Tidak mendukung pemerintah,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P049,keadaanMeringankan,Menyesali kesalahan,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
+P050,nomorPerkara,495/Pid.Sus/2024/PN Mlg,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P050,pengadilan,Pengadilan Negeri Malang,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P050,tanggalPutusan,2024-12-10,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P050,terdakwaKode,TDK-050,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P050,jenisNarkotika,Ekstasi,putusan_050.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P050,beratBarangBuktiGram,1.1,putusan_050.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P050,pasalDakwaan,Pasal 114 Ayat (1),putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
+P050,pasalTerbukti,Pasal 112 Ayat (1),putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P050,tuntutanBulan,72,putusan_050.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
+P050,vonisBulan,60,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P050,dendaRupiah,800000000,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P050,barangBukti,3 butir ekstasi,putusan_050.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
+P050,keadaanMemberatkan,Perbuatan meresahkan masyarakat,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+P050,keadaanMeringankan,Sopan dan kooperatif,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
