@@ -1,4 +1,30 @@
 case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+caseId,nomorPerkara,pengadilan,tanggalPutusan,sumberUrl,statusVerifikasi,petugasEkstraksi
+P001,796/Pid.Sus/2019/PN Bks,Pengadilan Negeri Bekasi,2019-12-09,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P002,469/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-14,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P003,475/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-20,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P004,401/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-06,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P005,446/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-02,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P006,561/Pid.Sus/2025/PN Bks,Pengadilan Negeri Bekasi,2026-01-15,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P007,555/Pid.Sus/2018/PN Bks,Pengadilan Negeri Bekasi,2018-06-25,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P008,84/Pid.Sus/2018/PN Bks,Pengadilan Negeri Bekasi,2018-03-20,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P009,121/Pid.Sus/2021/PN Bks,Pengadilan Negeri Bekasi,2021-04-12,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P010,391/Pid.Sus/2021/PN Bks,Pengadilan Negeri Bekasi,2021-08-10,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P011,102/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-03-15,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P012,215/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-06-22,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P013,340/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-09-10,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P014,412/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-11-05,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P015,58/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-02-18,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P016,134/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-04-14,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P017,245/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-07-02,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P018,378/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-09-25,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P019,510/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-11-30,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P020,22/Pid.Sus/2025/PN Bks,Pengadilan Negeri Bekasi,2025-01-20,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P021,89/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-03-11,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P022,190/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-05-19,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P023,305/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-08-24,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P024,415/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-11-15,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
+P025,520/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-12-21,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
 P026,nomorPerkara,123/Pid.Sus/2024/PN Bgl,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
 P026,pengadilan,Pengadilan Negeri Bangil,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
 P026,tanggalPutusan,2024-03-15,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
