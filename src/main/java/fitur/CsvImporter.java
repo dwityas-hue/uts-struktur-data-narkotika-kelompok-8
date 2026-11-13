@@ -43,8 +43,12 @@ public class CsvImporter {
 
             while ((line = reader.readLine()) != null) {
                 nomorBaris++;
+                // Hapus karakter BOM UTF-8 (\uFEFF) jika ada di awal file
+                if (nomorBaris == 1) {
+                    line = line.replace("\uFEFF", "");
+                }
                 // Lewati baris header pertama
-                if (nomorBaris == 1 && line.toLowerCase().startsWith("caseid,")) {
+                if (nomorBaris == 1 && line.trim().toLowerCase().startsWith("caseid,")) {
                     continue;
                 }
                 // Lewati baris kosong
