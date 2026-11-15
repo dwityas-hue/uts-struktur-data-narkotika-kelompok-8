@@ -152,7 +152,7 @@ public class MainApp {
             DynamicArray<Putusan> hasil = new DynamicArray<>();
             switch (mode) {
                 case "1":
-                    System.out.print("Masukkan Jenis Narkotika (misal Sabu / Ganja): ");
+                    System.out.print("Masukkan Jenis Narkotika (misal Shabu / Ganja): ");
                     hasil = layananA.filterByJenisNarkotika(daftarPutusan, scanner.nextLine().trim());
                     break;
                 case "2":
