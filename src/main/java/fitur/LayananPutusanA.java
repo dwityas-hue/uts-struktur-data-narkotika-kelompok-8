@@ -71,7 +71,7 @@ public class LayananPutusanA {
         String target = jenis.trim();
         for (int i = 0; i < daftarPutusan.size(); i++) {
             Putusan p = daftarPutusan.get(i);
-            if (p != null && p.getJenisNarkotika() != null && p.getJenisNarkotika().equalsIgnoreCase(target)) {
+            if (p != null && p.getJenisNarkotika() != null && p.getJenisNarkotika().toLowerCase().contains(target.toLowerCase())) {
                 hasil.add(p);
             }
         }
@@ -171,11 +171,10 @@ public class LayananPutusanA {
             }
 
             if (jenisNarkotika != null && !jenisNarkotika.trim().isEmpty()) {
-                if (p.getJenisNarkotika() == null || !p.getJenisNarkotika().equalsIgnoreCase(jenisNarkotika.trim())) {
+                if (p.getJenisNarkotika() == null || !p.getJenisNarkotika().toLowerCase().contains(jenisNarkotika.trim().toLowerCase())) {
                     continue;
                 }
             }
-
             if (minBeratGram != null && p.getBeratBarangBuktiGram() < minBeratGram) {
                 continue;
             }
