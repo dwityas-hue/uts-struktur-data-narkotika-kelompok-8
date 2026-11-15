@@ -105,9 +105,9 @@ public class CsvImporter {
         String pasalDakwaan = wajibIsi(kolom[7], "pasalDakwaan");
         String pasalTerbukti = wajibIsi(kolom[8], "pasalTerbukti");
 
-        int tuntutanBulan = parseNonNegatifInt(kolom[9], "tuntutanBulan");
+        int tuntutanBulan = parseIntOpsional(kolom[9], "tuntutanBulan");
         int vonisBulan = parseNonNegatifInt(kolom[10], "vonisBulan");
-        long dendaRupiah = parseNonNegatifLong(kolom[11], "dendaRupiah");
+        long dendaRupiah = parseNonNegatifInt(kolom[11], "dendaRupiah");
 
         String barangBukti = bersihkanKutip(kolom[12]);
         String keadaanMemberatkan = bersihkanKutip(kolom[13]);
@@ -157,27 +157,24 @@ public class CsvImporter {
     }
 
     private int parseNonNegatifInt(String nilai, String namaKolom) {
+        String t = nilai.trim();
         try {
-            int val = Integer.parseInt(nilai.trim());
-            if (val < 0) {
+            double d = Double.parseDouble(t);
+            if (d != Math.rint(d)) {
+                throw new IllegalArgumentException(namaKolom + " harus bilangan bulat: " + nilai);
+            }
+            if (d < 0) {
                 throw new IllegalArgumentException(namaKolom + " tidak boleh negatif");
             }
-            return val;
+            return (int) d;
         } catch (NumberFormatException e) {
             throw new IllegalArgumentException("Format " + namaKolom + " bukan bilangan bulat: " + nilai);
         }
     }
 
-    private long parseNonNegatifLong(String nilai, String namaKolom) {
-        try {
-            long val = Long.parseLong(nilai.trim());
-            if (val < 0) {
-                throw new IllegalArgumentException(namaKolom + " tidak boleh negatif");
-            }
-            return val;
-        } catch (NumberFormatException e) {
-            throw new IllegalArgumentException("Format " + namaKolom + " bukan angka valid: " + nilai);
-        }
+    private int parseIntOpsional(String nilai, String namaKolom) {
+        if (nilai == null || nilai.trim().isEmpty()) return 0;
+        return parseNonNegatifInt(nilai, namaKolom);
     }
 
     private String bersihkanKutip(String teks) {
