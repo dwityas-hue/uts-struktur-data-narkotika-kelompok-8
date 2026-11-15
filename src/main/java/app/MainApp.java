@@ -12,6 +12,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.Scanner;
 
+//import library
 public class MainApp {
 
     private static DynamicArray<Putusan> daftarPutusan = new DynamicArray<>();
@@ -68,11 +69,12 @@ public class MainApp {
         scanner.close();
     }
 
+    //tampilkan menu utama
     private static void tampilkanMenuUtama() {
-        System.out.println("\n=========================================================");
+        System.out.println("\n==========================================================");
         System.out.println("   SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        ");
         System.out.println("   Total Data Aktif di Memori: " + daftarPutusan.size() + " putusan");
-        System.out.println("=========================================================");
+        System.out.println("==========================================================");
         System.out.println("[Fitur Anggota A - Impor, Pencarian & Penyaringan]");
         System.out.println("  1. Impor Data Putusan dari CSV");
         System.out.println("  2. Cari Putusan (Case ID / Nomor Perkara + Step Count)");
@@ -86,7 +88,7 @@ public class MainApp {
         System.out.println("  8. Tampilkan Statistik (Rata-rata Vonis & Total Denda)");
         System.out.println("  9. Ekspor Data Aktif ke File CSV");
         System.out.println("  0. Keluar");
-        System.out.println("=========================================================");
+        System.out.println("==========================================================");
     }
 
     // --- 1. IMPOR CSV (ANGGOTA A) ---
