@@ -119,7 +119,7 @@ public class MainApp {
             System.out.println("[Info] Data masih kosong. Silakan impor CSV terlebih dahulu (Menu 1).");
             return;
         }
-        System.out.print("Masukkan Case ID (misal P001) atau Nomor Perkara: ");
+        System.out.print("Masukkan Case ID (misal BKS-84-2018) atau Nomor Perkara (misal 84/Pid.Sus/2018/PN Bks): ");
         String keyword = scanner.nextLine().trim();
 
         LayananPutusanA.HasilPencarian hasil = layananA.cariByIdAtauNomorPerkara(daftarPutusan, keyword);
@@ -152,7 +152,7 @@ public class MainApp {
             DynamicArray<Putusan> hasil = new DynamicArray<>();
             switch (mode) {
                 case "1":
-                    System.out.print("Masukkan Jenis Narkotika (misal Sabu / Ganja): ");
+                    System.out.print("Masukkan Jenis Narkotika (misal shabu / ganja / tembakau): ");
                     hasil = layananA.filterByJenisNarkotika(daftarPutusan, scanner.nextLine().trim());
                     break;
                 case "2":
@@ -212,7 +212,7 @@ public class MainApp {
     private static void menuTambahPutusan(Scanner scanner) {
         try {
             System.out.println("\n--- Tambah Data Putusan Baru ---");
-            System.out.print("Case ID (misal P051): ");
+            System.out.print("Masukkan Case ID (misal BKS-84-2018) atau Nomor Perkara (misal 84/Pid.Sus/2018/PN Bks): ");
             String caseId = scanner.nextLine().trim();
             System.out.print("Nomor Perkara: ");
             String nomorPerkara = scanner.nextLine().trim();
@@ -220,7 +220,7 @@ public class MainApp {
             String pengadilan = scanner.nextLine().trim();
             System.out.print("Tanggal Putusan (YYYY-MM-DD): ");
             LocalDate tanggal = LocalDate.parse(scanner.nextLine().trim());
-            System.out.print("Kode Terdakwa (misal T-051): ");
+            System.out.print("Kode Terdakwa (misal T-84-2018): ");
             String terdakwa = scanner.nextLine().trim();
             System.out.print("Jenis Narkotika: ");
             String jenis = scanner.nextLine().trim();
