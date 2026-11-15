@@ -1,377 +1,748 @@
-case_id,field_name,value,source_file,source_page,extractor,reviewer,status
-caseId,nomorPerkara,pengadilan,tanggalPutusan,sumberUrl,statusVerifikasi,petugasEkstraksi
-P001,796/Pid.Sus/2019/PN Bks,Pengadilan Negeri Bekasi,2019-12-09,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P002,469/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-14,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P003,475/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-20,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P004,401/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-06,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P005,446/Pid.Sus/2022/PN Bks,Pengadilan Negeri Bekasi,2022-09-02,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P006,561/Pid.Sus/2025/PN Bks,Pengadilan Negeri Bekasi,2026-01-15,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P007,555/Pid.Sus/2018/PN Bks,Pengadilan Negeri Bekasi,2018-06-25,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P008,84/Pid.Sus/2018/PN Bks,Pengadilan Negeri Bekasi,2018-03-20,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P009,121/Pid.Sus/2021/PN Bks,Pengadilan Negeri Bekasi,2021-04-12,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P010,391/Pid.Sus/2021/PN Bks,Pengadilan Negeri Bekasi,2021-08-10,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P011,102/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-03-15,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P012,215/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-06-22,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P013,340/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-09-10,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P014,412/Pid.Sus/2023/PN Bks,Pengadilan Negeri Bekasi,2023-11-05,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P015,58/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-02-18,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P016,134/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-04-14,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P017,245/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-07-02,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P018,378/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-09-25,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P019,510/Pid.Sus/2024/PN Bks,Pengadilan Negeri Bekasi,2024-11-30,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P020,22/Pid.Sus/2025/PN Bks,Pengadilan Negeri Bekasi,2025-01-20,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P021,89/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-03-11,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P022,190/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-05-19,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P023,305/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-08-24,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P024,415/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-11-15,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P025,520/Pid.Sus/2020/PN Bks,Pengadilan Negeri Bekasi,2020-12-21,https://putusan3.mahkamahagung.go.id/,Terverifikasi,Anggota A
-P026,nomorPerkara,123/Pid.Sus/2024/PN Bgl,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P026,pengadilan,Pengadilan Negeri Bangil,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P026,tanggalPutusan,2024-03-15,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P026,terdakwaKode,TDK-026,putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P026,jenisNarkotika,Sabu,putusan_026.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P026,beratBarangBuktiGram,1.25,putusan_026.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P026,pasalDakwaan,Pasal 114 Ayat (1),putusan_026.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P026,pasalTerbukti,Pasal 112 Ayat (1),putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
-P026,tuntutanBulan,72,putusan_026.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P026,vonisBulan,60,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
-P026,dendaRupiah,800000000,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
-P026,barangBukti,1 klip sabu dan HP,putusan_026.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P026,keadaanMemberatkan,Merusak generasi muda,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
-P026,keadaanMeringankan,Sopan dan mengakui perbuatan,putusan_026.pdf,18,Vicka Dewi Anggraini,Anggota A,unverified
-P027,nomorPerkara,45/Pid.Sus/2024/PN Bgl,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P027,pengadilan,Pengadilan Negeri Bangil,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P027,tanggalPutusan,2024-04-10,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P027,terdakwaKode,TDK-027,putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P027,jenisNarkotika,Ganja,putusan_027.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P027,beratBarangBuktiGram,15.5,putusan_027.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P027,pasalDakwaan,Pasal 111 Ayat (1),putusan_027.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P027,pasalTerbukti,Pasal 111 Ayat (1),putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P027,tuntutanBulan,48,putusan_027.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P027,vonisBulan,36,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P027,dendaRupiah,600000000,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P027,barangBukti,1 bungkus ganja kering,putusan_027.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P027,keadaanMemberatkan,Beredar di lingkungan kampus,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P027,keadaanMeringankan,Belum pernah dihukum,putusan_027.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P028,nomorPerkara,88/Pid.Sus/2024/PN Bgl,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P028,pengadilan,Pengadilan Negeri Bangil,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P028,tanggalPutusan,2024-05-20,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P028,terdakwaKode,TDK-028,putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P028,jenisNarkotika,Ekstasi,putusan_028.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P028,beratBarangBuktiGram,0.8,putusan_028.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P028,pasalDakwaan,Pasal 114 Ayat (1),putusan_028.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P028,pasalTerbukti,Pasal 112 Ayat (1),putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P028,tuntutanBulan,60,putusan_028.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P028,vonisBulan,48,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P028,dendaRupiah,800000000,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P028,barangBukti,2 butir pil ekstasi,putusan_028.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P028,keadaanMemberatkan,Residivis,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P028,keadaanMeringankan,Mengakui kesalahan,putusan_028.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P029,nomorPerkara,145/Pid.Sus/2024/PN Bgl,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P029,pengadilan,Pengadilan Negeri Bangil,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P029,tanggalPutusan,2024-07-11,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P029,terdakwaKode,TDK-029,putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P029,jenisNarkotika,Sabu,putusan_029.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P029,beratBarangBuktiGram,0.95,putusan_029.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P029,pasalDakwaan,Pasal 114 Ayat (1),putusan_029.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P029,pasalTerbukti,Pasal 112 Ayat (1),putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P029,tuntutanBulan,72,putusan_029.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
-P029,vonisBulan,60,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P029,dendaRupiah,800000000,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P029,barangBukti,1 bungkus klip sabu,putusan_029.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P029,keadaanMemberatkan,Perbuatan meresahkan,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P029,keadaanMeringankan,Sopan di sidang,putusan_029.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P030,nomorPerkara,201/Pid.Sus/2024/PN Bgl,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P030,pengadilan,Pengadilan Negeri Bangil,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P030,tanggalPutusan,2024-09-05,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P030,terdakwaKode,TDK-030,putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P030,jenisNarkotika,Sabu,putusan_030.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P030,beratBarangBuktiGram,3.1,putusan_030.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P030,pasalDakwaan,Pasal 114 Ayat (2),putusan_030.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P030,pasalTerbukti,Pasal 114 Ayat (2),putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
-P030,tuntutanBulan,108,putusan_030.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P030,vonisBulan,96,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
-P030,dendaRupiah,1000000000,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
-P030,barangBukti,Plastik bening sabu > 1 gram,putusan_030.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P030,keadaanMemberatkan,Jumlah barang bukti cukup besar,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
-P030,keadaanMeringankan,Mengaku bersalah,putusan_030.pdf,17,Vicka Dewi Anggraini,Anggota A,unverified
-P031,nomorPerkara,15/Pid.Sus/2021/PN Sby,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P031,pengadilan,Pengadilan Negeri Surabaya,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P031,tanggalPutusan,2021-02-04,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P031,terdakwaKode,TDK-031,putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P031,jenisNarkotika,Sabu,putusan_031.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P031,beratBarangBuktiGram,0.55,putusan_031.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P031,pasalDakwaan,Pasal 114 Ayat (1),putusan_031.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P031,pasalTerbukti,Pasal 112 Ayat (1),putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P031,tuntutanBulan,66,putusan_031.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P031,vonisBulan,54,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P031,dendaRupiah,800000000,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P031,barangBukti,1 klip sabu,putusan_031.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P031,keadaanMemberatkan,Menghambat program pemerintah,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P031,keadaanMeringankan,Sopan,putusan_031.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P032,nomorPerkara,112/Pid.Sus/2021/PN Sby,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P032,pengadilan,Pengadilan Negeri Surabaya,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P032,tanggalPutusan,2021-04-18,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P032,terdakwaKode,TDK-032,putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P032,jenisNarkotika,Ganja,putusan_032.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P032,beratBarangBuktiGram,8.2,putusan_032.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P032,pasalDakwaan,Pasal 111 Ayat (1),putusan_032.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P032,pasalTerbukti,Pasal 111 Ayat (1),putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P032,tuntutanBulan,48,putusan_032.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
-P032,vonisBulan,36,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P032,dendaRupiah,600000000,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P032,barangBukti,1 paket ganja,putusan_032.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P032,keadaanMemberatkan,Meresahkan masyarakat,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P032,keadaanMeringankan,Belum pernah dihukum,putusan_032.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P033,nomorPerkara,230/Pid.Sus/2021/PN Sby,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P033,pengadilan,Pengadilan Negeri Surabaya,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P033,tanggalPutusan,2021-07-22,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P033,terdakwaKode,TDK-033,putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P033,jenisNarkotika,Sabu,putusan_033.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P033,beratBarangBuktiGram,1.8,putusan_033.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P033,pasalDakwaan,Pasal 114 Ayat (1),putusan_033.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P033,pasalTerbukti,Pasal 114 Ayat (1),putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P033,tuntutanBulan,84,putusan_033.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
-P033,vonisBulan,72,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P033,dendaRupiah,1000000000,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P033,barangBukti,2 klip sabu,putusan_033.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P033,keadaanMemberatkan,Merusak generasi muda,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P033,keadaanMeringankan,Menyesali perbuatan,putusan_033.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P034,nomorPerkara,350/Pid.Sus/2021/PN Sby,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P034,pengadilan,Pengadilan Negeri Surabaya,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P034,tanggalPutusan,2021-10-15,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P034,terdakwaKode,TDK-034,putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P034,jenisNarkotika,Ekstasi,putusan_034.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P034,beratBarangBuktiGram,1.5,putusan_034.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P034,pasalDakwaan,Pasal 114 Ayat (1),putusan_034.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P034,pasalTerbukti,Pasal 112 Ayat (1),putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P034,tuntutanBulan,72,putusan_034.pdf,7,Vicka Dewi Anggraini,Anggota A,unverified
-P034,vonisBulan,60,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P034,dendaRupiah,800000000,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P034,barangBukti,4 butir ekstasi,putusan_034.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P034,keadaanMemberatkan,Perbuatan meresahkan,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P034,keadaanMeringankan,Tulang punggung keluarga,putusan_034.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P035,nomorPerkara,480/Pid.Sus/2021/PN Sby,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P035,pengadilan,Pengadilan Negeri Surabaya,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P035,tanggalPutusan,2021-12-08,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P035,terdakwaKode,TDK-035,putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P035,jenisNarkotika,Sabu,putusan_035.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P035,beratBarangBuktiGram,0.22,putusan_035.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P035,pasalDakwaan,Pasal 114 Ayat (1),putusan_035.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P035,pasalTerbukti,Pasal 112 Ayat (1),putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
-P035,tuntutanBulan,60,putusan_035.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P035,vonisBulan,48,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
-P035,dendaRupiah,800000000,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
-P035,barangBukti,1 paket hemat sabu,putusan_035.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P035,keadaanMemberatkan,Menghambat pemberantasan narkoba,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
-P035,keadaanMeringankan,Sopan,putusan_035.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
-P036,nomorPerkara,40/Pid.Sus/2022/PN Sby,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P036,pengadilan,Pengadilan Negeri Surabaya,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P036,tanggalPutusan,2022-02-17,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P036,terdakwaKode,TDK-036,putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P036,jenisNarkotika,Sabu,putusan_036.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P036,beratBarangBuktiGram,0.65,putusan_036.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P036,pasalDakwaan,Pasal 114 Ayat (1),putusan_036.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P036,pasalTerbukti,Pasal 112 Ayat (1),putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P036,tuntutanBulan,72,putusan_036.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
-P036,vonisBulan,60,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P036,dendaRupiah,800000000,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P036,barangBukti,1 klip sabu,putusan_036.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P036,keadaanMemberatkan,Tidak mendukung pemerintah,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P036,keadaanMeringankan,Mengaku bersalah,putusan_036.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P037,nomorPerkara,165/Pid.Sus/2022/PN Sby,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P037,pengadilan,Pengadilan Negeri Surabaya,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P037,tanggalPutusan,2022-05-11,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P037,terdakwaKode,TDK-037,putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P037,jenisNarkotika,Ganja,putusan_037.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P037,beratBarangBuktiGram,45.0,putusan_037.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P037,pasalDakwaan,Pasal 111 Ayat (1),putusan_037.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P037,pasalTerbukti,Pasal 111 Ayat (1),putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P037,tuntutanBulan,72,putusan_037.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P037,vonisBulan,60,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P037,dendaRupiah,800000000,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P037,barangBukti,1 bata ganja press,putusan_037.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P037,keadaanMemberatkan,Barang bukti relatif banyak,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P037,keadaanMeringankan,Belum pernah dihukum,putusan_037.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P038,nomorPerkara,290/Pid.Sus/2022/PN Sby,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P038,pengadilan,Pengadilan Negeri Surabaya,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P038,tanggalPutusan,2022-08-20,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P038,terdakwaKode,TDK-038,putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P038,jenisNarkotika,Sabu,putusan_038.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P038,beratBarangBuktiGram,0.38,putusan_038.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P038,pasalDakwaan,Pasal 114 Ayat (1),putusan_038.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P038,pasalTerbukti,Pasal 112 Ayat (1),putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P038,tuntutanBulan,60,putusan_038.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P038,vonisBulan,48,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P038,dendaRupiah,800000000,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P038,barangBukti,1 klip sabu dan alat hisap,putusan_038.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P038,keadaanMemberatkan,Meresahkan masyarakat,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P038,keadaanMeringankan,Sopan dan jujur,putusan_038.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P039,nomorPerkara,410/Pid.Sus/2022/PN Sby,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P039,pengadilan,Pengadilan Negeri Surabaya,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P039,tanggalPutusan,2022-11-04,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P039,terdakwaKode,TDK-039,putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P039,jenisNarkotika,Sabu,putusan_039.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P039,beratBarangBuktiGram,2.1,putusan_039.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P039,pasalDakwaan,Pasal 114 Ayat (1),putusan_039.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P039,pasalTerbukti,Pasal 114 Ayat (1),putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P039,tuntutanBulan,96,putusan_039.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
-P039,vonisBulan,84,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P039,dendaRupiah,1000000000,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P039,barangBukti,3 kantong klip sabu,putusan_039.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P039,keadaanMemberatkan,Merusak program pemerintah,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P039,keadaanMeringankan,Menyesali kesalahan,putusan_039.pdf,15,Vicka Dewi Anggraini,Anggota A,unverified
-P040,nomorPerkara,525/Pid.Sus/2022/PN Sby,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P040,pengadilan,Pengadilan Negeri Surabaya,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P040,tanggalPutusan,2022-12-19,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P040,terdakwaKode,TDK-040,putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P040,jenisNarkotika,Ekstasi,putusan_040.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P040,beratBarangBuktiGram,0.6,putusan_040.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P040,pasalDakwaan,Pasal 114 Ayat (1),putusan_040.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P040,pasalTerbukti,Pasal 112 Ayat (1),putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P040,tuntutanBulan,60,putusan_040.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P040,vonisBulan,48,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P040,dendaRupiah,800000000,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P040,barangBukti,2 butir ekstasi,putusan_040.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P040,keadaanMemberatkan,Perbuatan meresahkan,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P040,keadaanMeringankan,Kooperatif,putusan_040.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P041,nomorPerkara,33/Pid.Sus/2023/PN Mlg,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P041,pengadilan,Pengadilan Negeri Malang,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P041,tanggalPutusan,2023-01-26,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P041,terdakwaKode,TDK-041,putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P041,jenisNarkotika,Sabu,putusan_041.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P041,beratBarangBuktiGram,0.48,putusan_041.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P041,pasalDakwaan,Pasal 114 Ayat (1),putusan_041.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P041,pasalTerbukti,Pasal 112 Ayat (1),putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P041,tuntutanBulan,60,putusan_041.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P041,vonisBulan,48,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P041,dendaRupiah,800000000,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P041,barangBukti,1 bungkus sabu,putusan_041.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P041,keadaanMemberatkan,Tidak mendukung pemberantasan narkotika,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P041,keadaanMeringankan,Sopan di sidang,putusan_041.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P042,nomorPerkara,105/Pid.Sus/2023/PN Mlg,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P042,pengadilan,Pengadilan Negeri Malang,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P042,tanggalPutusan,2023-03-30,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P042,terdakwaKode,TDK-042,putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P042,jenisNarkotika,Ganja,putusan_042.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P042,beratBarangBuktiGram,11.2,putusan_042.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P042,pasalDakwaan,Pasal 111 Ayat (1),putusan_042.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P042,pasalTerbukti,Pasal 111 Ayat (1),putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P042,tuntutanBulan,48,putusan_042.pdf,7,Vicka Dewi Anggraini,Anggota A,unverified
-P042,vonisBulan,36,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P042,dendaRupiah,600000000,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P042,barangBukti,1 paket ganja kering,putusan_042.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P042,keadaanMemberatkan,Beredar di pemuda,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P042,keadaanMeringankan,Belum pernah dihukum,putusan_042.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P043,nomorPerkara,210/Pid.Sus/2023/PN Mlg,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P043,pengadilan,Pengadilan Negeri Malang,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P043,tanggalPutusan,2023-06-15,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P043,terdakwaKode,TDK-043,putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P043,jenisNarkotika,Sabu,putusan_043.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P043,beratBarangBuktiGram,1.05,putusan_043.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P043,pasalDakwaan,Pasal 114 Ayat (1),putusan_043.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P043,pasalTerbukti,Pasal 114 Ayat (1),putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P043,tuntutanBulan,84,putusan_043.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
-P043,vonisBulan,72,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P043,dendaRupiah,1000000000,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P043,barangBukti,1 klip sabu dan HP,putusan_043.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P043,keadaanMemberatkan,Merusak generasi muda,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P043,keadaanMeringankan,Mengaku terus terang,putusan_043.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P044,nomorPerkara,320/Pid.Sus/2023/PN Mlg,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P044,pengadilan,Pengadilan Negeri Malang,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P044,tanggalPutusan,2023-08-28,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P044,terdakwaKode,TDK-044,putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P044,jenisNarkotika,Sabu,putusan_044.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P044,beratBarangBuktiGram,0.29,putusan_044.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P044,pasalDakwaan,Pasal 114 Ayat (1),putusan_044.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P044,pasalTerbukti,Pasal 112 Ayat (1),putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P044,tuntutanBulan,60,putusan_044.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P044,vonisBulan,48,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P044,dendaRupiah,800000000,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P044,barangBukti,1 klip kecil sabu,putusan_044.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P044,keadaanMemberatkan,Meresahkan masyarakat,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P044,keadaanMeringankan,Menyesal,putusan_044.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P045,nomorPerkara,430/Pid.Sus/2023/PN Mlg,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P045,pengadilan,Pengadilan Negeri Malang,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P045,tanggalPutusan,2023-11-12,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P045,terdakwaKode,TDK-045,putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P045,jenisNarkotika,Ekstasi,putusan_045.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P045,beratBarangBuktiGram,0.9,putusan_045.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P045,pasalDakwaan,Pasal 114 Ayat (1),putusan_045.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P045,pasalTerbukti,Pasal 112 Ayat (1),putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P045,tuntutanBulan,66,putusan_045.pdf,7,Vicka Dewi Anggraini,Anggota A,unverified
-P045,vonisBulan,54,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P045,dendaRupiah,800000000,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P045,barangBukti,2 butir ekstasi,putusan_045.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P045,keadaanMemberatkan,Menghambat program pemerintah,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P045,keadaanMeringankan,Tulang punggung keluarga,putusan_045.pdf,13,Vicka Dewi Anggraini,Anggota A,unverified
-P046,nomorPerkara,52/Pid.Sus/2024/PN Mlg,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P046,pengadilan,Pengadilan Negeri Malang,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P046,tanggalPutusan,2024-02-05,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P046,terdakwaKode,TDK-046,putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P046,jenisNarkotika,Sabu,putusan_046.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P046,beratBarangBuktiGram,0.77,putusan_046.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P046,pasalDakwaan,Pasal 114 Ayat (1),putusan_046.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P046,pasalTerbukti,Pasal 112 Ayat (1),putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P046,tuntutanBulan,72,putusan_046.pdf,5,Vicka Dewi Anggraini,Anggota A,unverified
-P046,vonisBulan,60,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P046,dendaRupiah,800000000,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P046,barangBukti,1 klip sabu,putusan_046.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P046,keadaanMemberatkan,Perbuatan meresahkan,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P046,keadaanMeringankan,Sopan,putusan_046.pdf,12,Vicka Dewi Anggraini,Anggota A,unverified
-P047,nomorPerkara,160/Pid.Sus/2024/PN Mlg,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P047,pengadilan,Pengadilan Negeri Malang,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P047,tanggalPutusan,2024-04-22,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P047,terdakwaKode,TDK-047,putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P047,jenisNarkotika,Ganja,putusan_047.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P047,beratBarangBuktiGram,6.8,putusan_047.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P047,pasalDakwaan,Pasal 111 Ayat (1),putusan_047.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P047,pasalTerbukti,Pasal 111 Ayat (1),putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P047,tuntutanBulan,48,putusan_047.pdf,6,Vicka Dewi Anggraini,Anggota A,unverified
-P047,vonisBulan,36,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P047,dendaRupiah,600000000,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P047,barangBukti,1 bungkus kertas ganja,putusan_047.pdf,3,Vicka Dewi Anggraini,Anggota A,unverified
-P047,keadaanMemberatkan,Merusak generasi muda,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P047,keadaanMeringankan,Belum pernah dihukum,putusan_047.pdf,11,Vicka Dewi Anggraini,Anggota A,unverified
-P048,nomorPerkara,275/Pid.Sus/2024/PN Mlg,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P048,pengadilan,Pengadilan Negeri Malang,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P048,tanggalPutusan,2024-07-16,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P048,terdakwaKode,TDK-048,putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P048,jenisNarkotika,Sabu,putusan_048.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P048,beratBarangBuktiGram,4.5,putusan_048.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P048,pasalDakwaan,Pasal 114 Ayat (2),putusan_048.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P048,pasalTerbukti,Pasal 112 Ayat (2),putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P048,tuntutanBulan,108,putusan_048.pdf,9,Vicka Dewi Anggraini,Anggota A,unverified
-P048,vonisBulan,96,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P048,dendaRupiah,1000000000,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P048,barangBukti,Plastik bening sabu > 1 gram,putusan_048.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P048,keadaanMemberatkan,Jumlah barang bukti besar,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P048,keadaanMeringankan,Mengaku bersalah,putusan_048.pdf,16,Vicka Dewi Anggraini,Anggota A,unverified
-P049,nomorPerkara,380/Pid.Sus/2024/PN Mlg,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P049,pengadilan,Pengadilan Negeri Malang,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P049,tanggalPutusan,2024-09-29,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P049,terdakwaKode,TDK-049,putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P049,jenisNarkotika,Sabu,putusan_049.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P049,beratBarangBuktiGram,0.31,putusan_049.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P049,pasalDakwaan,Pasal 114 Ayat (1),putusan_049.pdf,1,Vicka Dewi Anggraini,Anggota A,unverified
-P049,pasalTerbukti,Pasal 112 Ayat (1),putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P049,tuntutanBulan,60,putusan_049.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P049,vonisBulan,48,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P049,dendaRupiah,800000000,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P049,barangBukti,1 klip sabu,putusan_049.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P049,keadaanMemberatkan,Tidak mendukung pemerintah,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P049,keadaanMeringankan,Menyesali kesalahan,putusan_049.pdf,10,Vicka Dewi Anggraini,Anggota A,unverified
-P050,nomorPerkara,495/Pid.Sus/2024/PN Mlg,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P050,pengadilan,Pengadilan Negeri Malang,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P050,tanggalPutusan,2024-12-10,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P050,terdakwaKode,TDK-050,putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P050,jenisNarkotika,Ekstasi,putusan_050.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P050,beratBarangBuktiGram,1.1,putusan_050.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P050,pasalDakwaan,Pasal 114 Ayat (1),putusan_050.pdf,2,Vicka Dewi Anggraini,Anggota A,unverified
-P050,pasalTerbukti,Pasal 112 Ayat (1),putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P050,tuntutanBulan,72,putusan_050.pdf,8,Vicka Dewi Anggraini,Anggota A,unverified
-P050,vonisBulan,60,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P050,dendaRupiah,800000000,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P050,barangBukti,3 butir ekstasi,putusan_050.pdf,4,Vicka Dewi Anggraini,Anggota A,unverified
-P050,keadaanMemberatkan,Perbuatan meresahkan masyarakat,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
-P050,keadaanMeringankan,Sopan dan kooperatif,putusan_050.pdf,14,Vicka Dewi Anggraini,Anggota A,unverified
+case_id	field_name	value	source_file	source_page	extractor	reviewer	status
+BKS-84-2018	caseId	BKS-84-2018	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	nomorPerkara	84/Pid.Sus/2018/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	tanggalPutusan	2018-03-19	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	terdakwaKode	T-84-2018	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	beratBarangBuktiGram	1.9229	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	tuntutanBulan	60.0	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	vonisBulan	48	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	dendaRupiah	800000000	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	barangBukti	1 bungkus kertas diikat karet berisi ganja dalam bekas bungkus rokok Gudang Garam (netto 1,9229 g; sisa 1,8189 g)	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-84-2018	keadaanMeringankan	Terdakwa bersikap sopan dan mengakui perbuatannya; menyesali perbuatannya	https://putusan3.mahkamahagung.go.id	2-3;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	caseId	BKS-555-2018	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	nomorPerkara	555/Pid.Sus/2018/PN Bks	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	tanggalPutusan	2018-07-04	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	terdakwaKode	T-555-2018	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	beratBarangBuktiGram	0.0998	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	tuntutanBulan	60.0	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	vonisBulan	60	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	barangBukti	1 bungkus plastik klip berisi 2 bungkus plastik klip shabu (netto 0,0998 g; sisa lab 0,0772 g); 1 handphone OPPO gold; 1 handphone Samsung putih	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan program pemerintah yang gencar memberantas peredaran gelap narkotika	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-555-2018	keadaanMeringankan	Terdakwa berjanji tidak mengulangi; berperilaku sopan di persidangan; mengakui terus terang perbuatannya	https://putusan3.mahkamahagung.go.id	2;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	caseId	BKS-718-2018	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	nomorPerkara	718/Pid.Sus/2018/PN Bks	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	tanggalPutusan	2018-08-14	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	terdakwaKode	T-718-2018	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	beratBarangBuktiGram	0.2682	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	tuntutanBulan	72.0	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	vonisBulan	66	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	barangBukti	1 paket shabu dalam plastik permen Zing (bruto 0,2259 g); 1 handphone Samsung J2 Prime silver; 1 sepeda motor Suzuki Satria hitam 2011 (dirampas untuk negara)	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-718-2018	keadaanMeringankan	Terdakwa bersikap sopan; mengakui terus terang dan menyesali perbuatannya; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	caseId	BKS-1367-2018	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	nomorPerkara	1367/Pid.Sus/2018/PN Bks	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	tanggalPutusan	2019-01-22	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	terdakwaKode	T-1367-2018	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	beratBarangBuktiGram	0.8906	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) lebih subsidair Pasal 127 ayat (1) huruf a UU 35/2009	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	tuntutanBulan	60.0	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	vonisBulan	48	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	barangBukti	1 bungkus kertas coklat berisi ganja (netto 0,8906 g; sisa lab 0,6131 g); 1 handphone Xiaomi Note 5A pink	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan program pemerintah yang gencar memberantas peredaran gelap narkotika	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1367-2018	keadaanMeringankan	Terdakwa menyesal dan berjanji tidak mengulangi; berperilaku sopan di persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;16;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	caseId	BKS-425-2019	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	nomorPerkara	425/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	tanggalPutusan	2019-10-09	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	terdakwaKode	T-425-2019	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	jenisNarkotika	Ganja (THC) dan Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	beratBarangBuktiGram	0.6579	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	pasalDakwaan	Pasal 114 ayat (1) atau Pasal 111 ayat (1) atau Pasal 112 ayat (1) UU 35/2009 (dakwaan alternatif)	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	pasalTerbukti	Pasal 111 ayat (1) dan Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	barangBukti	1 bungkus kertas putih berisi ganja (netto 0,4794 g sisa lab); 1 bungkus plastik klip shabu (netto 0,0697 g sisa lab); 1 handphone Xiaomi silver	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	keadaanMemberatkan	Tidak mendukung program pemerintah memberantas narkotika; merusak generasi bangsa; meresahkan masyarakat dan berdampak buruk bagi lingkungan	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-425-2019	keadaanMeringankan	Terdakwa terus terang mengakui perbuatannya; belum pernah dipidana	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	caseId	BKS-35-2022	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	nomorPerkara	35/Pid.Sus/2022/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	tanggalPutusan	2022-04-28	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	terdakwaKode	T-35-2022	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	beratBarangBuktiGram	1.6817	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	tuntutanBulan	78.0	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	dendaRupiah	800000000	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	barangBukti	1 bungkus plastik merah berisi 3 bungkus plastik klip shabu (netto 1,6817 g; sisa 1,6519 g); 1 handphone Samsung hitam beserta kartu	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	keadaanMemberatkan	Berandil dalam banyaknya peredaran gelap dan penyalahgunaan narkotika; menimbulkan dampak sosial yang luas dan memicu tindak pidana lain	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-35-2022	keadaanMeringankan	Terdakwa menyesali perbuatannya dan berjanji tidak mengulangi	https://putusan3.mahkamahagung.go.id	2-3;14;14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	caseId	BKS-401-2022	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	nomorPerkara	401/Pid.Sus/2022/PN Bks	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	tanggalPutusan	2022-09-28	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	terdakwaKode	T-401-2022	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	beratBarangBuktiGram	190.0	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	pasalDakwaan	Pasal 115 ayat (2) subsidair Pasal 112 ayat (2) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	pasalTerbukti	Pasal 115 ayat (2) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	tuntutanBulan	132.0	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	vonisBulan	144	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	dendaRupiah	1200000000	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	barangBukti	2 plastik berisi shabu (bruto 88 g dan 102 g; netto sampel lab 0,7332 g dan 0,7657 g); 1 handphone Readme Note 7 merah	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-401-2022	keadaanMeringankan	Terdakwa mengaku bersalah dan tidak berbelit-belit; bersikap sopan; berjanji tidak mengulangi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;22;22-23	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	caseId	BKS-446-2022	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	nomorPerkara	446/Pid.Sus/2022/PN Bks	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	tanggalPutusan	2022-09-26	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	terdakwaKode	T-446-2022	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	beratBarangBuktiGram	0.0756	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	tuntutanBulan	66.0	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	vonisBulan	48	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	barangBukti	1 bungkus bekas rokok Dunhill berisi 1 bungkus plastik klip kristal putih (netto 0,0756 g; sisa 0,0448 g)	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran dan penyalahgunaan narkotika	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-446-2022	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;12;12-13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	caseId	BKS-469-2022	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	nomorPerkara	469/Pid.Sus/2022/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	tanggalPutusan	2022-10-19	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	terdakwaKode	T-469-2022	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	beratBarangBuktiGram	3.6231	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	barangBukti	1 bungkus plastik klip bening berisi shabu (bruto ±4,04 g); 1 handphone Redmi hitam; 1 kardus handphone Mito	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah memberantas penyalahgunaan narkoba	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-469-2022	keadaanMeringankan	Terdakwa belum pernah dihukum; bersikap sopan dan mengakui perbuatan terus terang; menyesali perbuatan dan berjanji tidak mengulangi	https://putusan3.mahkamahagung.go.id	2-3;14;15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	caseId	BKS-475-2022	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	nomorPerkara	475/Pid.Sus/2022/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	tanggalPutusan	2022-10-18	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	terdakwaKode	T-475-2022	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	beratBarangBuktiGram	0.6059	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	tuntutanBulan	66.0	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	vonisBulan	66	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	dendaRupiah	800000000	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	barangBukti	1 masker hitam berisi lakban coklat dengan 2 bungkus plastik klip shabu (netto 0,6059 g; sisa 0,5669 g); 1 handphone Samsung J5 hitam	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	keadaanMemberatkan	Bertentangan dengan program pemerintah memberantas penyalahgunaan narkotika; meresahkan masyarakat	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-475-2022	keadaanMeringankan	Mengakui dan menyesali perbuatan serta berjanji tidak mengulangi; kooperatif selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;15;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	caseId	BKS-427-2019	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	nomorPerkara	427/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	tanggalPutusan	2019-10-02	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	terdakwaKode	T-427-2019	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	beratBarangBuktiGram	0.7121	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) atau Pasal 127 ayat (1) huruf a UU 35/2009 (dakwaan alternatif subsidaritas)	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	pasalTerbukti	Pasal 127 ayat (1) huruf a UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	tuntutanBulan	18.0	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	vonisBulan	12	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	dendaRupiah	0	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	barangBukti	1 plastik klip berisi shabu (bruto 0,84 g; netto 0,7121 g; sisa lab 0,6539 g); 1 lembar amplop putih; 1 cangklong; 1 botol You C1000 dengan 2 potong sedotan; 1 korek api gas; 1 handphone Asus hitam beserta simcard	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	keadaanMemberatkan	Perbuatan terdakwa meresahkan masyarakat; bertentangan dengan program pemerintah dalam pemberantasan peredaran dan penyalahgunaan narkotika	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-427-2019	keadaanMeringankan	Terdakwa berterus terang sehingga memperlancar persidangan; menyesali dan berjanji tidak mengulangi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	caseId	BKS-68-2019	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	nomorPerkara	68/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	tanggalPutusan	2019-04-24	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	terdakwaKode	T-68-2019	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	beratBarangBuktiGram	0.779	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	tuntutanBulan	60.0	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	vonisBulan	48	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	dendaRupiah	800000000	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	barangBukti	2 linting kertas bekas rokok Sampoerna kretek berisi ganja dalam kertas merah (netto seluruhnya 0,7790 g; sisa lab 0,5881 g)	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkoba; dapat mempengaruhi generasi muda lain untuk terjerat narkoba	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-68-2019	keadaanMeringankan	Terdakwa bersikap sopan dan mengaku terus terang di persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	caseId	BKS-301-2019	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	nomorPerkara	301/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	tanggalPutusan	2019-07-31	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	terdakwaKode	T-301-2019	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	beratBarangBuktiGram	0.2927	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	pasalDakwaan	Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009 (dakwaan alternatif)	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	tuntutanBulan	102.0	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	vonisBulan	78	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	barangBukti	1 bungkus plastik klip bening berisi kristal putih shabu (netto 0,2927 g; sisa lab 0,2684 g); 1 handphone Samsung flip GT E1272 putih beserta kartu	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah memberantas narkotika; memberikan dampak negatif kepada masyarakat; kejahatan terhadap generasi bangsa	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-301-2019	keadaanMeringankan	Terdakwa bersikap sopan di persidangan; mengakui terus terang dan menyesali perbuatannya; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	caseId	BKS-152-2019	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	nomorPerkara	152/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	tanggalPutusan	2019-05-15	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	terdakwaKode	T-152-2019	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	beratBarangBuktiGram	4.3723	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	tuntutanBulan	84.0	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	barangBukti	1 bungkus plastik bening berisi shabu (netto 4,3723 g; sisa lab 4,1737 g); 1 handphone Samsung gold beserta simcard	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan penyalahgunaan narkotika; merusak fisik dan mental bangsa dan generasi muda; mengedarkan shabu dalam jumlah mendekati 5 gram	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-152-2019	keadaanMeringankan	Terdakwa bersikap sopan dan berterus terang di persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	caseId	BKS-256-2019	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	nomorPerkara	256/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	tanggalPutusan	2019-07-03	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	terdakwaKode	T-256-2019	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	beratBarangBuktiGram	0.5527	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	tuntutanBulan	96.0	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	vonisBulan	72	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	barangBukti	1 bungkus rokok Gudang Garam Filter berisi 1 bungkus kertas putih berisi ganja (netto 0,5527 g; sisa lab 0,3804 g); 1 handphone Xiomi putih gold	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan program pemerintah yang tengah gencar memberantas narkoba	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-256-2019	keadaanMeringankan	Terdakwa bersikap sopan dan mengaku terus terang sehingga memperlancar sidang; menyesali perbuatannya dan berjanji tidak mengulangi; masih muda dan masih memiliki kesempatan memperbaiki diri; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	7-8;13-14;14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	caseId	BKS-796-2019	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	nomorPerkara	796/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	tanggalPutusan	2020-01-22	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	terdakwaKode	T-796-2019	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	beratBarangBuktiGram	2.084	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	tuntutanBulan	84.0	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	barangBukti	1 bungkus plastik bening berisi 1 bungkus plastik bening metamfetamina (sisa lab netto 1,8657 g) dan 1 bungkus plastik klip bening metamfetamina (sisa lab netto 0,1221 g) dalam bekas bungkus rokok Promild; 1 handphone Xiomi gold	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	keadaanMemberatkan	Terdakwa selaku satpam tidak mendukung program pemerintah dalam pemberantasan narkotika; sebagai satpam seharusnya memberi rasa aman tetapi malah melakukan tindak pidana narkotika; sudah beberapa kali menyimpan dan mengonsumsi sabu	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-796-2019	keadaanMeringankan	Terdakwa belum pernah dihukum; menyesali perbuatannya dan berjanji tidak mengulangi; mempunyai istri dan 2 anak yang masih kecil	https://putusan3.mahkamahagung.go.id	2;22-23;23-24	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	caseId	BKS-83-2021	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	nomorPerkara	83/Pid.Sus/2021/PN Bks	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	tanggalPutusan	2021-05-03	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	terdakwaKode	T-83-2021	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	beratBarangBuktiGram	0.546	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	tuntutanBulan	102.0	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	barangBukti	5 bungkus plastik klip bening kecil berisi shabu (bruto 1,47 g; netto lab seluruhnya 0,5460 g); 1 handphone Samsung hitam kombinasi merah	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-83-2021	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;16;16-17	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	caseId	BKS-391-2021	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	nomorPerkara	391/Pid.Sus/2021/PN Bks	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	tanggalPutusan	2021-09-09	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	terdakwaKode	T-391-2021	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	beratBarangBuktiGram	0.669	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	barangBukti	Sampel A 1 bungkus kertas berisi 1 bungkus plastik bening kristal putih, B 3 bungkus besar plastik bening, C 3 bungkus kecil plastik bening (netto lab A 0,1169 g; B 0,2095 g; C 0,3426 g; sisa lab A 0,0924 g; B 0,1494 g; C 0,2618 g); 1 alat timbang elektrik silver; 1 handphone I 12 pro max hitam; 1 kotak hitam	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas narkotika di Indonesia; merusak generasi muda; meresahkan masyarakat	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-391-2021	keadaanMeringankan	Terdakwa mengakui terus terang perbuatannya	https://putusan3.mahkamahagung.go.id	2;24;25-26	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	caseId	BKS-561-2025	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	nomorPerkara	561/Pid.Sus/2025/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	tanggalPutusan	2025-12-17	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	terdakwaKode	T-561-2025	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	jenisNarkotika	Tembakau Sintetis (MDMB-4en PINACA) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	beratBarangBuktiGram	14.21	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	pasalDakwaan	Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009 jo. Permenkes 30/2023	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009 jo. Permenkes 30/2023	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	tuntutanBulan	84.0	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	vonisBulan	60	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	barangBukti	1 kantong kain hitam berisi 11 klip kecil (netto 5,62 g) dan 10 klip sedang (netto 8,59 g) tembakau sintetis; 1 HP Infinix Hot 30i; 1 motor Honda Beat hitam B 5005 SAF	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	keadaanMemberatkan	Perbuatan terdakwa bisa memberikan pengaruh buruk di dalam masyarakat; bertentangan dengan program pemerintah dalam pemberantasan penyalahgunaan narkotika	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-561-2025	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya serta berjanji tidak akan mengulanginya lagi	https://putusan3.mahkamahagung.go.id	2-3;26-27;27-28	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	caseId	BKS-121-2021	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	nomorPerkara	121/Pid.Sus/2021/PN.Bks	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	tanggalPutusan	2021-03-29	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	terdakwaKode	T-121-2021	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	beratBarangBuktiGram	2.22751	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	tuntutanBulan	66.0	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	vonisBulan	66	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	dendaRupiah	800000000	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	barangBukti	6 bungkus plastik klip bening berisi shabu (bruto 3,55 g; netto lab 2,22751 g) dalam botol bekas vitamin IMBOOST; 1 HP Huawei putih	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	keadaanMemberatkan	Terdakwa tidak mendukung program Pemerintah dalam memberantas peredaran Narkotika	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-121-2021	keadaanMeringankan	Terdakwa mengakui terus terang tentang perbuatannya; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	3;7-8;13-14	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	caseId	BKS-377-2021	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	nomorPerkara	377/Pid.Sus/2021/PN Bks	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	tanggalPutusan	2021-09-01	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	terdakwaKode	T-377-2021	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	beratBarangBuktiGram	0.095	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	tuntutanBulan	84.0	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	vonisBulan	66	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	barangBukti	1 bungkus plastik klip bening berisi shabu (netto 0,0950 g; sisa 0,0663 g); 1 HP Xiaomi gold	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	keadaanMemberatkan	Perbuatan terdakwa bertentangan dengan Program Pemerintah dalam pemberantasan penyalahgunaan narkoba	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-377-2021	keadaanMeringankan	Terdakwa berterus terang menyesali perbuatannya; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;12;13	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	caseId	BKS-201-2021	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	nomorPerkara	201/Pid.Sus/2021/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	tanggalPutusan	2021-06-29	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	terdakwaKode	T-201-2021	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	beratBarangBuktiGram	0.0859	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	tuntutanBulan	72.0	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	vonisBulan	60	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	barangBukti	1 bungkus plastik bening berisi kristal putih shabu (netto 0,0859 g; sisa 0,0558 g); 1 HP Vivo Y12 biru	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program Pemerintah dalam memberantas Narkotika; meresahkan masyarakat	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-201-2021	keadaanMeringankan	Terdakwa berlaku sopan dan mengakui serta menyesali perbuatannya; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	caseId	BKS-266-2021	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	nomorPerkara	266/Pid.Sus/2021/PN.Bks	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	tanggalPutusan	2021-06-02	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	terdakwaKode	T-266-2021	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	beratBarangBuktiGram	0.4	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	tuntutanBulan	78.0	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	barangBukti	1 bungkus plastik klip bening kecil dan 1 sedotan kecil berisi shabu (total bruto 0,40 g); 1 jaket biru; 1 HP Vivo hitam merah	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	keadaanMemberatkan	Meningkatkan kualitas dan kuantitas tindak pidana narkotika; merusak mental dan moral generasi muda; tidak mendukung program pemerintah	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-266-2021	keadaanMeringankan	Terdakwa mengakui terus terang dan tidak berbelit-belit; menyesali dan berjanji tidak mengulangi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;16-17;17-18	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	caseId	BKS-751-2020	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	nomorPerkara	751/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	tanggalPutusan	2020-12-08	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	terdakwaKode	T-751-2020	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	beratBarangBuktiGram	0.0723	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	vonisBulan	78	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	barangBukti	1 bungkus plastik klip bening berisi kristal putih shabu (netto 0,0723 g; sisa 0,0645 g); 1 jaket	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	keadaanMemberatkan	Perbuatan terdakwa meresahkan masyarakat; bertentangan dengan program pemerintah; merusak jiwa, raga dan masa depan generasi muda	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-751-2020	keadaanMeringankan	Terdakwa belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;21;22-23	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	caseId	BKS-638-2020	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	nomorPerkara	638/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	tanggalPutusan	2020-10-13	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	terdakwaKode	T-638-2020	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	beratBarangBuktiGram	0.1271	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	barangBukti	1 bungkus plastik klip bening berisi shabu (bruto 0,18 g; netto 0,1271 g; sisa 0,0958 g) dalam bungkus rokok Gudang Garam Filter; 1 HP Redmi Note 7 merah muda; 1 HP Xiaomi Note 5 hitam	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	keadaanMemberatkan	Perbuatan terdakwa meresahkan masyarakat; bertentangan dengan program pemerintah; merusak jiwa, raga dan masa depan generasi muda	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-638-2020	keadaanMeringankan	Terdakwa belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;25-26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	caseId	BKS-539-2020	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	nomorPerkara	539/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	tanggalPutusan	2020-09-09	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	terdakwaKode	T-539-2020	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	beratBarangBuktiGram	78.6616	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	pasalDakwaan	Pasal 114 ayat (2) jo. Pasal 132 ayat (1) subsidair Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	pasalTerbukti	Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	tuntutanBulan	144.0	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	vonisBulan	120	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	barangBukti	3 paket shabu (netto 72,1169 g; 5,0849 g; dan 1,4598 g; total 78,6616 g); 1 tas selempang JICT CSR; 1 timbangan digital; 2 HP; 1 atm BRI biru	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	keadaanMemberatkan	Perbuatan Para Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-539-2020	keadaanMeringankan	Para Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;30;31-32	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	caseId	BKS-682-2020	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	nomorPerkara	682/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	tanggalPutusan	2020-11-30	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	terdakwaKode	T-682-2020	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	beratBarangBuktiGram	1.8826	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	tuntutanBulan	66.0	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	vonisBulan	54	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	barangBukti	1 bungkus bekas rokok Sampoerna Mild berisi 1 klip daun kering ganja (netto 1,8826 g; sisa 1,6847 g); 1 HP Samsung hitam A7	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	keadaanMemberatkan	Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-682-2020	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;14;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	caseId	BKS-263-2020	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	nomorPerkara	263/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	tanggalPutusan	2020-06-03	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	terdakwaKode	T-263-2020	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	beratBarangBuktiGram	0.4968	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	tuntutanBulan	72.0	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	vonisBulan	60	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	barangBukti	1 bungkus plastik bening berisi kristal putih shabu (netto 0,4968 g; sisa 0,4787 g); 1 HP Realme hitam; 1 HP Samsung J5 biru; 1 motor Honda Vario 150 hitam B 4107 FTP	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	keadaanMemberatkan	Peredaran gelap Narkotika sangat banyak dan merugikan masyarakat; penggunaan Narkotika melahirkan kejahatan baru	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-263-2020	keadaanMeringankan	Terdakwa menyesali perbuatannya	https://putusan3.mahkamahagung.go.id	2-3;25;26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	caseId	BKS-491-2020	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	nomorPerkara	491/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	tanggalPutusan	2020-09-09	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	terdakwaKode	T-491-2020	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	beratBarangBuktiGram	0.3736	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	barangBukti	1 bungkus plastik klip berisi kristal putih shabu (bruto 0,3736 g; sisa netto 0,3387 g); 1 HP Oppo A5S biru	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	keadaanMemberatkan	Perbuatan terdakwa tidak mendukung program pemerintah dalam memerangi peredaran Narkotika	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-491-2020	keadaanMeringankan	Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;18;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	caseId	BKS-879-2020	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	nomorPerkara	879/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	tanggalPutusan	2021-01-26	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	terdakwaKode	T-879-2020	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	beratBarangBuktiGram	42.71	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	pasalDakwaan	Pasal 114 ayat (1) jo. Pasal 132 ayat (1) subsidair Pasal 111 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	pasalTerbukti	Pasal 111 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	tuntutanBulan	72.0	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	vonisBulan	48	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	barangBukti	1 paket JNE berisi plastik bening ganja (bruto 51 g; netto 42,7100 g; sisa 41,4208 g); 1 HP Xiaomi hitam; 1 HP iPhone 7 hitam	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	keadaanMemberatkan	Perbuatan Para Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-879-2020	keadaanMeringankan	Para Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;25;25-26	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	caseId	BKS-642-2020	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	nomorPerkara	642/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	tanggalPutusan	2020-11-04	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	terdakwaKode	T-642-2020	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	beratBarangBuktiGram	0.1622	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	barangBukti	2 bungkus plastik klip berisi kristal putih shabu (netto 0,0809 g dan 0,0813 g; sisa 0,0604 g dan 0,0636 g); 1 HP Samsung hitam	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	keadaanMemberatkan	Mempunyai andil dalam peredaran gelap narkotika; menimbulkan aspek sosial kemasyarakatan yang luas dan memicu tindak pidana lain	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-642-2020	keadaanMeringankan	Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	caseId	BKS-754-2020	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	nomorPerkara	754/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	tanggalPutusan	2021-01-25	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	terdakwaKode	T-754-2020	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	beratBarangBuktiGram	0.1113	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	vonisBulan	66	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	dendaRupiah	800000000	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	barangBukti	1 bungkus plastik klip berisi kristal putih shabu (bruto 0,1113 g; sisa 0,0798 g); 1 topi	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	keadaanMemberatkan	Perbuatan Terdakwa bertentangan dengan program Pemerintah yang sedang gencar memberantas peredaran gelap Narkotika	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-754-2020	keadaanMeringankan	Terdakwa menyesal dan berjanji tidak mengulangi; berperilaku sopan di persidangan; mengakui terus terang perbuatannya	https://putusan3.mahkamahagung.go.id	2-3;17;18-19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	caseId	BKS-753-2020	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	nomorPerkara	753/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	tanggalPutusan	2021-01-25	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	terdakwaKode	T-753-2020	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	beratBarangBuktiGram	8.7766	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	tuntutanBulan	102.0	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	vonisBulan	78	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	barangBukti	2 bungkus plastik klip berisi daun kering ganja (netto 8,7766 g; sisa 8,4676 g); 1 HP Samsung	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	keadaanMemberatkan	Perbuatan dapat menimbulkan banyaknya peredaran gelap dan penyalahgunaan Narkotika	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-753-2020	keadaanMeringankan	Terdakwa menyesali perbuatannya dan berjanji tidak mengulangi lagi	https://putusan3.mahkamahagung.go.id	2-3;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	caseId	BKS-430-2020	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	nomorPerkara	430/Pid.Sus/2020/PN.Bks	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	tanggalPutusan	2020-07-27	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	terdakwaKode	T-430-2020	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	beratBarangBuktiGram	1.2261	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	tuntutanBulan	96.0	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	barangBukti	1 bungkus kertas timah rokok (netto 0,7680 g; sisa 0,6062 g) dan 2 linting daun kering ganja (netto 0,4581 g; sisa 0,2507 g) dalam bungkus rokok Lucky Strike	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	keadaanMemberatkan	Perbuatan terdakwa meresahkan masyarakat dan tidak mendukung program pemerintah memberantas peredaran narkotika	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-430-2020	keadaanMeringankan	Terdakwa mengakui terus terang kesalahannya; menyesali perbuatannya dan berjanji tidak mengulangi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;14;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	caseId	BKS-460-2020	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	nomorPerkara	460/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	tanggalPutusan	2020-08-25	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	terdakwaKode	T-460-2020	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	beratBarangBuktiGram	0.1271	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	tuntutanBulan	66.0	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	vonisBulan	54	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	barangBukti	1 bekas bungkus rokok Gudang Garam Filter berisi 1 plastik bening shabu (netto 0,1271 g; sisa 0,0958 g); 1 HP Redmi Note 7 merah muda; 1 HP Xiaomi Note 5 hitam	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	keadaanMemberatkan	Meresahkan masyarakat; tidak mendukung program pemerintah; menimbulkan dampak negatif; membeli shabu 2 kali	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-460-2020	keadaanMeringankan	Terdakwa berlaku sopan di persidangan dan mengakui serta menyesali perbuatannya	https://putusan3.mahkamahagung.go.id	2;29;29-30	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	caseId	BKS-376-2020	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	nomorPerkara	376/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	tanggalPutusan	2020-07-13	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	terdakwaKode	T-376-2020	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	beratBarangBuktiGram	13.4109	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	pasalTerbukti	Pasal 111 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	tuntutanBulan	96.0	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	barangBukti	2 bungkus kertas coklat berisi daun kering ganja (netto 13,4109 g; sisa 13,3598 g); 1 HP Miyu hitam	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	keadaanMemberatkan	Perbuatan Terdakwa tidak mendukung program Pemerintah dalam memberantas Narkotika	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-376-2020	keadaanMeringankan	Terdakwa berlaku sopan di persidangan; mengakui perbuatannya; menyesali perbuatannya serta berjanji tidak mengulangi	https://putusan3.mahkamahagung.go.id	12-13;23;23-24	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	caseId	BKS-502-2020	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	nomorPerkara	502/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	tanggalPutusan	2020-08-25	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	terdakwaKode	T-502-2020	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	jenisNarkotika	Tembakau Sintetis (5F-MDMB-PICA) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	beratBarangBuktiGram	7.3092	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	pasalDakwaan	Pasal 114 ayat (2) subsidair Pasal 112 ayat (2) UU 35/2009 jo. Permenkes 05/2020	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	pasalTerbukti	Pasal 112 ayat (2) UU 35/2009 jo. Permenkes 05/2020	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	tuntutanBulan	108.0	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	barangBukti	11 bungkus plastik klip berisi daun kering tembakau gorilla 5F-MDMB-PICA (netto 0,4438 g + 3,0813 g + 3,7841 g = 7,3092 g); 1 tas selempang hijau; 2 pack plastik klip kosong; 1 HP Vivo biru	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	keadaanMemberatkan	Perbuatan Terdakwa tidak mendukung program Pemerintah dalam memberantas Narkotika	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-502-2020	keadaanMeringankan	Terdakwa berlaku sopan di persidangan; menyesali perbuatannya serta berjanji tidak mengulangi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;35;36-37	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	caseId	BKS-731-2020	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	nomorPerkara	731/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	tanggalPutusan	2020-11-30	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	terdakwaKode	T-731-2020	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	beratBarangBuktiGram	0.44	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	barangBukti	1 bungkus plastik klip bening berisi shabu (bruto 0,44 g; sisa lab 0,3059 g) dalam bungkus rokok Gudang Garam Filter; 1 HP Realme 5 Pro biru	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	keadaanMemberatkan	Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-731-2020	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;15;15-16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	caseId	BKS-191-2020	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	nomorPerkara	191/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	tanggalPutusan	2020-05-13	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	terdakwaKode	T-191-2020	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	jenisNarkotika	Ganja (THC) Golongan I	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	beratBarangBuktiGram	1.7461	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	pasalDakwaan	Pasal 114 ayat (1) jo. Pasal 132 ayat (1) atau Pasal 111 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	pasalTerbukti	Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	barangBukti	1 bungkus kertas coklat berisi ganja (netto 1,7461 g; sisa 1,5650 g); 1 HP Xiaomi	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	keadaanMemberatkan	Perbuatan terdakwa berandil dalam banyaknya peredaran gelap narkotika; menimbulkan aspek sosial kemasyarakatan yang luas dan memicu tindak pidana lain	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-191-2020	keadaanMeringankan	Nihil	https://putusan3.mahkamahagung.go.id	2;18-19;19	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	caseId	BKS-641-2020	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	nomorPerkara	641/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	tanggalPutusan	2020-11-17	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	terdakwaKode	T-641-2020	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	beratBarangBuktiGram	0.3686	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	pasalDakwaan	Pasal 114 ayat (1) jo. Pasal 132 ayat (1) subsidair Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	pasalTerbukti	Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	barangBukti	1 bungkus plastik klip bening berisi shabu (bruto 0,56 g; netto 0,3686 g; sisa 0,3269 g) dalam bungkus rokok Magnum Blue di tas pinggang biru	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	keadaanMemberatkan	Perbuatan Terdakwa tidak mendukung program Pemerintah dalam memberantas Narkotika	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-641-2020	keadaanMeringankan	Terdakwa berlaku sopan di persidangan; menyesali perbuatannya serta berjanji tidak mengulangi lagi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;27;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	caseId	BKS-647-2020	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	nomorPerkara	647/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	tanggalPutusan	2020-12-14	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	terdakwaKode	T-647-2020	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	beratBarangBuktiGram	93.7103	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	pasalDakwaan	Pasal 114 ayat (2) subsidair Pasal 112 ayat (2) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	pasalTerbukti	Pasal 112 ayat (2) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	tuntutanBulan	144.0	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	vonisBulan	132	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	barangBukti	1 plastik klip berisi shabu dibungkus lakban coklat (bruto 104,36 g; netto 93,7103 g; sisa 92,0071 g); 1 HP Samsung putih; 1 motor Honda Vario hitam (dirampas untuk negara)	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	keadaanMemberatkan	Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-647-2020	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;14-15;15	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	caseId	BKS-692-2020	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	nomorPerkara	692/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	tanggalPutusan	2020-12-15	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	terdakwaKode	T-692-2020	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	beratBarangBuktiGram	0.2826	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	tuntutanBulan	60.0	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	vonisBulan	54	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	barangBukti	2 bungkus plastik bening berisi kristal putih shabu (netto 0,2826 g; sisa 0,2184 g) dalam bekas bungkus rokok Magnum Mild; 1 HP Xiaomi silver	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	keadaanMemberatkan	Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-692-2020	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;21;22	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	caseId	BKS-697-2020	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	nomorPerkara	697/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	tanggalPutusan	2020-11-25	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	terdakwaKode	T-697-2020	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	beratBarangBuktiGram	0.0456	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	pasalTerbukti	Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	barangBukti	1 bungkus plastik klip bening berisi shabu (bruto 0,2 g; netto 0,0456 g; sisa 0,0344 g)	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	keadaanMemberatkan	Perbuatan terdakwa melanggar peraturan perundang-undangan; tidak mendukung program pemerintah untuk pemberantasan Tindak Pidana Narkotika	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-697-2020	keadaanMeringankan	Terdakwa berlaku sopan di persidangan; mengakui terus terang dan menyesali perbuatannya serta berjanji tidak akan mengulanginya lagi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2-3;26;27-28	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	caseId	BKS-364-2020	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	nomorPerkara	364/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	tanggalPutusan	2020-07-07	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	terdakwaKode	T-364-2020	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	beratBarangBuktiGram	0.3877	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	barangBukti	1 bungkus plastik bening berisi kristal putih shabu (netto 0,3877 g; sisa 0,3545 g); 1 HP Lenovo hitam	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	keadaanMemberatkan	Terdakwa tidak mendukung program pemerintah dalam upaya memberantas penyalahgunaan Narkotika dan obat-obatan terlarang	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-364-2020	keadaanMeringankan	Terdakwa belum pernah dihukum; menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi	https://putusan3.mahkamahagung.go.id	2-3;17;18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	caseId	BKS-851-2020	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	nomorPerkara	851/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	tanggalPutusan	2021-02-09	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	terdakwaKode	T-851-2020	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	beratBarangBuktiGram	0.0323	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	vonisBulan	72	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	barangBukti	1 bungkus plastik klip bening berisi kristal putih shabu (bruto 0,15 g; netto 0,0323 g; sisa 0,0201 g)	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	keadaanMemberatkan	Perbuatan Terdakwa tidak mendukung program Pemerintah; meresahkan masyarakat; menimbulkan dampak negatif bagi masyarakat	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-851-2020	keadaanMeringankan	Terdakwa mengakui bersalah dan menyesali perbuatannya serta berjanji tidak akan mengulangi; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;15;16	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	caseId	BKS-696-2020	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	nomorPerkara	696/Pid.Sus/2020/PN.Bks	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	tanggalPutusan	2020-11-17	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	terdakwaKode	T-696-2020	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	beratBarangBuktiGram	0.2067	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	barangBukti	2 bungkus plastik klip bening berisi kristal putih shabu (netto 0,2067 g; sisa 0,1016 g) dalam bungkus rokok Sampoerna Mild	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	keadaanMemberatkan	Perbuatan Terdakwa tidak mendukung program pemerintah untuk memberantas Narkotika; merusak generasi bangsa; meresahkan masyarakat	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-696-2020	keadaanMeringankan	Terdakwa terus terang mengakui segala perbuatannya di persidangan; belum menggunakan narkotika tersebut	https://putusan3.mahkamahagung.go.id	2-3;13;14	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	caseId	BKS-740-2020	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	nomorPerkara	740/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	tanggalPutusan	2021-01-25	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	terdakwaKode	T-740-2020	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	beratBarangBuktiGram	0.0694	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	barangBukti	1 bungkus plastik klip bening berisi shabu (bruto 0,24 g; netto 0,0694 g; sisa 0,0367 g) dalam bekas bungkus rokok Gudang Garam Filter; 1 HP ZTE hitam	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	keadaanMemberatkan	Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan narkotika	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-740-2020	keadaanMeringankan	Terdakwa mengakui dan menyesali perbuatannya; berperilaku sopan selama persidangan; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	2;17;17-18	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	caseId	BKS-1341-2018	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	nomorPerkara	1341/Pid.Sus/2018/PN Bks	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	tanggalPutusan	2019-01-23	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	terdakwaKode	T-1341-2018	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	beratBarangBuktiGram	0.1336	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	pasalTerbukti	Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	tuntutanBulan	60.0	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	vonisBulan	54	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	barangBukti	1 bungkus plastik klip bening kecil berisi shabu (netto 0,1336 g) di dalam bungkus rokok Djarum Super	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	keadaanMemberatkan	Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan peredaran Narkotika; meresahkan masyarakat	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-1341-2018	keadaanMeringankan	Terdakwa bersikap sopan dalam persidangan; berterus terang, menyesal, berjanji tidak akan mengulangi; tulang punggung keluarga; belum pernah dipidana	https://putusan3.mahkamahagung.go.id	2;14-15;15-16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	caseId	BKS-818-2020	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	nomorPerkara	818/Pid.Sus/2020/PN Bks	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	tanggalPutusan	2021-03-08	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	terdakwaKode	T-818-2020	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	beratBarangBuktiGram	0.0798	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	pasalDakwaan	Pasal 114 ayat (1) UU 35/2009 (sebagaimana disebut dalam bagian memperhatikan)	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	pasalTerbukti	Tidak dicantumkan secara eksplisit dalam petikan; rumusan perbuatan: memiliki, menyimpan, menguasai atau menyediakan Narkotika Golongan I bukan tanaman	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	vonisBulan	84	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-818-2020	barangBukti	1 bungkus plastik bening berisi kristal putih (netto 0,0798 g; netto akhir setelah pemeriksaan lab 0,0352 g; positif metamfetamina); 1 handphone Oppo A71 hitam	https://putusan3.mahkamahagung.go.id	1-2	Dwi Susilaningtyas	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	caseId	BKS-571-2019	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	nomorPerkara	571/Pid.Sus/2019/PN Bks	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	pengadilan	Pengadilan Negeri Bekasi	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	tanggalPutusan	2019-12-09	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	terdakwaKode	T-571-2019	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	jenisNarkotika	Metamfetamina (shabu) Golongan I	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	beratBarangBuktiGram	0.5	https://putusan3.mahkamahagung.go.id	1-2	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	pasalDakwaan	Pasal 114 ayat (1) subsidair Pasal 112 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	1-2;4-5	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	pasalTerbukti	Pasal 114 ayat (1) UU 35/2009	https://putusan3.mahkamahagung.go.id	14-15;16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	tuntutanBulan	90.0	https://putusan3.mahkamahagung.go.id	4-5	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	vonisBulan	72	https://putusan3.mahkamahagung.go.id	14-15;16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	dendaRupiah	1000000000	https://putusan3.mahkamahagung.go.id	14-15;16	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	barangBukti	1 bungkus plastik klip bening kecil berisi shabu (berat brutto sekitar 0,50 g; hasil pemeriksaan lab netto 0,2291 g); 1 handphone Motorola hitam; 1 jaket biru	https://putusan3.mahkamahagung.go.id	1-2;4-5	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	keadaanMemberatkan	Menimbulkan keresahan masyarakat	https://putusan3.mahkamahagung.go.id	14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
+BKS-571-2019	keadaanMeringankan	Terdakwa menyesali perbuatannya dan tidak berbelit-belit dalam memberikan keterangan; mengaku terus terang; belum pernah dihukum	https://putusan3.mahkamahagung.go.id	14-15	Vicka Dewi Anggraini	Vicka Dewi Anggraini	terverifikasi
