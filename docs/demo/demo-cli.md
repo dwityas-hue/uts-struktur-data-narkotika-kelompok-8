@@ -7,19 +7,23 @@ Berikut adalah log eksekusi langsung fitur impor CSV, pencarian dengan *step cou
    SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
    Total Data Aktif di Memori: 0 putusan
 =========================================================
+
 [Fitur Anggota A - Impor, Pencarian & Penyaringan]
   1. Impor Data Putusan dari CSV
   2. Cari Putusan (Case ID / Nomor Perkara + Step Count)
   3. Filter Putusan (Jenis / Berat / Pasal / Vonis / Kombinasi)
+  
 [Manajemen Data & CustomStack]
   4. Tambah Putusan Baru
   5. Hapus Putusan berdasarkan Case ID
   6. Undo Perubahan Terakhir (CustomStack)
+  
 [Fitur Anggota B - Pengurutan, Statistik & Ekspor]
   7. Urutkan Putusan berdasarkan Vonis (Ascending)
   8. Tampilkan Statistik (Rata-rata Vonis & Total Denda)
   9. Ekspor Data Aktif ke File CSV
   0. Keluar
+  
 =========================================================
 Pilih menu (0-9): 1
 Masukkan path file CSV (Enter untuk default 'data/putusan-50.csv'): 
@@ -32,19 +36,23 @@ Masukkan path file CSV (Enter untuk default 'data/putusan-50.csv'):
    SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
    Total Data Aktif di Memori: 50 putusan
 =========================================================
+
 [Fitur Anggota A - Impor, Pencarian & Penyaringan]
   1. Impor Data Putusan dari CSV
   2. Cari Putusan (Case ID / Nomor Perkara + Step Count)
   3. Filter Putusan (Jenis / Berat / Pasal / Vonis / Kombinasi)
+  
 [Manajemen Data & CustomStack]
   4. Tambah Putusan Baru
   5. Hapus Putusan berdasarkan Case ID
   6. Undo Perubahan Terakhir (CustomStack)
+  
 [Fitur Anggota B - Pengurutan, Statistik & Ekspor]
   7. Urutkan Putusan berdasarkan Vonis (Ascending)
   8. Tampilkan Statistik (Rata-rata Vonis & Total Denda)
   9. Ekspor Data Aktif ke File CSV
   0. Keluar
+  
 =========================================================
 Pilih menu (0-9): 3
 
