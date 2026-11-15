@@ -46,32 +46,6 @@ Masukkan path file CSV (Enter untuk default 'data/putusan-50.csv'):
   9. Ekspor Data Aktif ke File CSV
   0. Keluar
 =========================================================
-Pilih menu (0-9): 2
-Masukkan Case ID (misal P001) atau Nomor Perkara: P010
-
-[Hasil Pencarian]
-- Jumlah langkah (Step Count): 10 langkah
-- Status: DITEMUKAN
-[P010] 391/Pid.Sus/2021/PN Bks | Jenis: Sabu (0.4 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-
-=========================================================
-   SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
-   Total Data Aktif di Memori: 50 putusan
-=========================================================
-[Fitur Anggota A - Impor, Pencarian & Penyaringan]
-  1. Impor Data Putusan dari CSV
-  2. Cari Putusan (Case ID / Nomor Perkara + Step Count)
-  3. Filter Putusan (Jenis / Berat / Pasal / Vonis / Kombinasi)
-[Manajemen Data & CustomStack]
-  4. Tambah Putusan Baru
-  5. Hapus Putusan berdasarkan Case ID
-  6. Undo Perubahan Terakhir (CustomStack)
-[Fitur Anggota B - Pengurutan, Statistik & Ekspor]
-  7. Urutkan Putusan berdasarkan Vonis (Ascending)
-  8. Tampilkan Statistik (Rata-rata Vonis & Total Denda)
-  9. Ekspor Data Aktif ke File CSV
-  0. Keluar
-=========================================================
 Pilih menu (0-9): 3
 
 --- Pilih Mode Filter ---
@@ -81,43 +55,46 @@ Pilih menu (0-9): 3
 4. Berdasarkan Rentang Vonis Penjara (bulan)
 5. Filter Kombinasi Multi-Kriteria
 Pilih (1-5): 1
-Masukkan Jenis Narkotika (misal Sabu / Ganja): Sabu
+Masukkan Jenis Narkotika (misal Shabu / Ganja): Metamfetamina (shabu) Golongan I
 
-[Hasil Filter: Ditemukan 34 putusan]
-1. [P001] 796/Pid.Sus/2019/PN Bks | Jenis: Sabu (1.99 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 1000000000
-2. [P002] 469/Pid.Sus/2022/PN Bks | Jenis: Sabu (0.5 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 72 bln | Denda: Rp 1000000000
-3. [P003] 475/Pid.Sus/2022/PN Bks | Jenis: Sabu (0.3 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-4. [P004] 401/Pid.Sus/2022/PN Bks | Jenis: Sabu (5.2 gr) | Pasal: Pasal 112 Ayat (2) | Vonis: 84 bln | Denda: Rp 1000000000
-5. [P005] 446/Pid.Sus/2022/PN Bks | Jenis: Sabu (0.25 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 54 bln | Denda: Rp 800000000
-6. [P006] 561/Pid.Sus/2025/PN Bks | Jenis: Sabu (0.45 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 60 bln | Denda: Rp 1000000000
-7. [P007] 555/Pid.Sus/2018/PN Bks | Jenis: Sabu (0.1 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 60 bln | Denda: Rp 1000000000
-8. [P008] 84/Pid.Sus/2018/PN Bks | Jenis: Sabu (0.35 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 54 bln | Denda: Rp 800000000
-9. [P009] 121/Pid.Sus/2021/PN Bks | Jenis: Sabu (0.6 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 60 bln | Denda: Rp 1000000000
-10. [P010] 391/Pid.Sus/2021/PN Bks | Jenis: Sabu (0.4 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-11. [P013] 340/Pid.Sus/2023/PN Bks | Jenis: Sabu (1.1 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 72 bln | Denda: Rp 1000000000
-12. [P014] 412/Pid.Sus/2023/PN Bks | Jenis: Sabu (0.28 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-13. [P016] 134/Pid.Sus/2024/PN Bks | Jenis: Sabu (0.85 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 1000000000
-14. [P017] 245/Pid.Sus/2024/PN Bks | Jenis: Sabu (2.3 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 84 bln | Denda: Rp 1000000000
-15. [P019] 510/Pid.Sus/2024/PN Bks | Jenis: Sabu (0.18 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-16. [P021] 89/Pid.Sus/2020/PN Bks | Jenis: Sabu (0.7 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 800000000
-17. [P022] 190/Pid.Sus/2020/PN Bks | Jenis: Sabu (0.42 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-18. [P024] 415/Pid.Sus/2020/PN Bks | Jenis: Sabu (1.5 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 72 bln | Denda: Rp 1000000000
-19. [P025] 520/Pid.Sus/2020/PN Bks | Jenis: Sabu (0.33 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 54 bln | Denda: Rp 800000000
-20. [P026] 123/Pid.Sus/2024/PN Bgl | Jenis: Sabu (1.25 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 800000000
-21. [P029] 145/Pid.Sus/2024/PN Bgl | Jenis: Sabu (0.95 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 800000000
-22. [P030] 201/Pid.Sus/2024/PN Bgl | Jenis: Sabu (3.1 gr) | Pasal: Pasal 114 Ayat (2) | Vonis: 96 bln | Denda: Rp 1000000000
-23. [P031] 15/Pid.Sus/2021/PN Sby | Jenis: Sabu (0.55 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 54 bln | Denda: Rp 800000000
-24. [P033] 230/Pid.Sus/2021/PN Sby | Jenis: Sabu (1.8 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 72 bln | Denda: Rp 1000000000
-25. [P035] 480/Pid.Sus/2021/PN Sby | Jenis: Sabu (0.22 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-26. [P036] 40/Pid.Sus/2022/PN Sby | Jenis: Sabu (0.65 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 800000000
-27. [P038] 290/Pid.Sus/2022/PN Sby | Jenis: Sabu (0.38 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-28. [P039] 410/Pid.Sus/2022/PN Sby | Jenis: Sabu (2.1 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 84 bln | Denda: Rp 1000000000
-29. [P041] 33/Pid.Sus/2023/PN Mlg | Jenis: Sabu (0.48 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-30. [P043] 210/Pid.Sus/2023/PN Mlg | Jenis: Sabu (1.05 gr) | Pasal: Pasal 114 Ayat (1) | Vonis: 72 bln | Denda: Rp 1000000000
-31. [P044] 320/Pid.Sus/2023/PN Mlg | Jenis: Sabu (0.29 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-32. [P046] 52/Pid.Sus/2024/PN Mlg | Jenis: Sabu (0.77 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 60 bln | Denda: Rp 800000000
-33. [P048] 275/Pid.Sus/2024/PN Mlg | Jenis: Sabu (4.5 gr) | Pasal: Pasal 112 Ayat (2) | Vonis: 96 bln | Denda: Rp 1000000000
-34. [P049] 380/Pid.Sus/2024/PN Mlg | Jenis: Sabu (0.31 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
+[Hasil Filter: Ditemukan 37 putusan]
+1. [BKS-555-2018] 555/Pid.Sus/2018/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0998 gr) | Pasal: Pasal 114 ayat (1) UU 35/2009 | Vonis: 60 bln | Denda: Rp 1000000000
+2. [BKS-718-2018] 718/Pid.Sus/2018/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.2682 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 66 bln | Denda: Rp 1000000000
+3. [BKS-35-2022] 35/Pid.Sus/2022/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (1.6817 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 800000000
+4. [BKS-401-2022] 401/Pid.Sus/2022/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (190.0 gr) | Pasal: Pasal 115 ayat (2) UU 35/2009 | Vonis: 144 bln | Denda: Rp 1200000000
+5. [BKS-446-2022] 446/Pid.Sus/2022/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0756 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 48 bln | Denda: Rp 1000000000
+6. [BKS-469-2022] 469/Pid.Sus/2022/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (3.6231 gr) | Pasal: Pasal 114 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+7. [BKS-475-2022] 475/Pid.Sus/2022/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.6059 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 66 bln | Denda: Rp 800000000
+8. [BKS-427-2019] 427/Pid.Sus/2019/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.7121 gr) | Pasal: Pasal 127 ayat (1) huruf a UU 35/2009 | Vonis: 12 bln | Denda: Rp 0
+9. [BKS-301-2019] 301/Pid.Sus/2019/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.2927 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 78 bln | Denda: Rp 1000000000
+10. [BKS-152-2019] 152/Pid.Sus/2019/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (4.3723 gr) | Pasal: Pasal 114 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+11. [BKS-796-2019] 796/Pid.Sus/2019/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (2.084 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+12. [BKS-83-2021] 83/Pid.Sus/2021/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.546 gr) | Pasal: Pasal 114 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+13. [BKS-391-2021] 391/Pid.Sus/2021/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.669 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+14. [BKS-121-2021] 121/Pid.Sus/2021/PN.Bks | Jenis: Metamfetamina (shabu) Golongan I (2.22751 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 66 bln | Denda: Rp 800000000
+15. [BKS-377-2021] 377/Pid.Sus/2021/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.095 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 66 bln | Denda: Rp 1000000000
+16. [BKS-201-2021] 201/Pid.Sus/2021/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0859 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 60 bln | Denda: Rp 1000000000
+17. [BKS-266-2021] 266/Pid.Sus/2021/PN.Bks | Jenis: Metamfetamina (shabu) Golongan I (0.4 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+18. [BKS-751-2020] 751/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0723 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 78 bln | Denda: Rp 1000000000
+19. [BKS-638-2020] 638/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1271 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+20. [BKS-539-2020] 539/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (78.6616 gr) | Pasal: Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 | Vonis: 120 bln | Denda: Rp 1000000000
+21. [BKS-263-2020] 263/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.4968 gr) | Pasal: Pasal 114 ayat (1) UU 35/2009 | Vonis: 60 bln | Denda: Rp 1000000000
+22. [BKS-491-2020] 491/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.3736 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+23. [BKS-642-2020] 642/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1622 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+24. [BKS-754-2020] 754/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1113 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 66 bln | Denda: Rp 800000000
+25. [BKS-460-2020] 460/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1271 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
+26. [BKS-731-2020] 731/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.44 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+27. [BKS-641-2020] 641/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.3686 gr) | Pasal: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+28. [BKS-647-2020] 647/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (93.7103 gr) | Pasal: Pasal 112 ayat (2) UU 35/2009 | Vonis: 132 bln | Denda: Rp 1000000000
+29. [BKS-692-2020] 692/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.2826 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
+30. [BKS-697-2020] 697/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0456 gr) | Pasal: Pasal 112 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+31. [BKS-364-2020] 364/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.3877 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+32. [BKS-851-2020] 851/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0323 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
+33. [BKS-696-2020] 696/Pid.Sus/2020/PN.Bks | Jenis: Metamfetamina (shabu) Golongan I (0.2067 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+34. [BKS-740-2020] 740/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0694 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 84 bln | Denda: Rp 1000000000
+35. [BKS-1341-2018] 1341/Pid.Sus/2018/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1336 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
+36. [BKS-818-2020] 818/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0798 gr) | Pasal: Tidak dicantumkan secara eksplisit dalam petikan     rumusan perbuatan: memiliki, menyimpan, menguasai atau menyediakan Narkotika Golongan I bukan tanaman | Vonis: 84 bln | Denda: Rp 1000000000
+37. [BKS-571-2019] 571/Pid.Sus/2019/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.5 gr) | Pasal: Pasal 114 ayat (1) UU 35/2009 | Vonis: 72 bln | Denda: Rp 1000000000
 
 =========================================================
    SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
@@ -140,38 +117,17 @@ Masukkan Jenis Narkotika (misal Sabu / Ganja): Sabu
 Pilih menu (0-9): 7
 
 [Sukses] Data berhasil diurutkan berdasarkan Vonis terpendek ke terlama:
-1. [P011] 102/Pid.Sus/2023/PN Bks | Jenis: Ganja (12.5 gr) | Pasal: Pasal 111 Ayat (1) | Vonis: 36 bln | Denda: Rp 600000000
-2. [P020] 22/Pid.Sus/2025/PN Bks | Jenis: Ganja (5.4 gr) | Pasal: Pasal 111 Ayat (1) | Vonis: 36 bln | Denda: Rp 600000000
-3. [P027] 45/Pid.Sus/2024/PN Bgl | Jenis: Ganja (15.5 gr) | Pasal: Pasal 111 Ayat (1) | Vonis: 36 bln | Denda: Rp 600000000
-4. [P032] 112/Pid.Sus/2021/PN Sby | Jenis: Ganja (8.2 gr) | Pasal: Pasal 111 Ayat (1) | Vonis: 36 bln | Denda: Rp 600000000
-5. [P042] 105/Pid.Sus/2023/PN Mlg | Jenis: Ganja (11.2 gr) | Pasal: Pasal 111 Ayat (1) | Vonis: 36 bln | Denda: Rp 600000000
-6. [P047] 160/Pid.Sus/2024/PN Mlg | Jenis: Ganja (6.8 gr) | Pasal: Pasal 111 Ayat (1) | Vonis: 36 bln | Denda: Rp 600000000
-7. [P003] 475/Pid.Sus/2022/PN Bks | Jenis: Sabu (0.3 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-8. [P010] 391/Pid.Sus/2021/PN Bks | Jenis: Sabu (0.4 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-9. [P012] 215/Pid.Sus/2023/PN Bks | Jenis: Ekstasi (0.75 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
-10. [P014] 412/Pid.Sus/2023/PN Bks | Jenis: Sabu (0.28 gr) | Pasal: Pasal 112 Ayat (1) | Vonis: 48 bln | Denda: Rp 800000000
+1. [BKS-427-2019] 427/Pid.Sus/2019/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.7121 gr) | Pasal: Pasal 127 ayat (1) huruf a UU 35/2009 | Vonis: 12 bln | Denda: Rp 0
+2. [BKS-84-2018] 84/Pid.Sus/2018/PN Bks | Jenis: Ganja (THC) Golongan I (1.9229 gr) | Pasal: Pasal 111 ayat (1) UU 35/2009 | Vonis: 48 bln | Denda: Rp 800000000
+3. [BKS-1367-2018] 1367/Pid.Sus/2018/PN Bks | Jenis: Ganja (THC) Golongan I (0.8906 gr) | Pasal: Pasal 111 ayat (1) UU 35/2009 | Vonis: 48 bln | Denda: Rp 1000000000
+4. [BKS-446-2022] 446/Pid.Sus/2022/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.0756 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 48 bln | Denda: Rp 1000000000
+5. [BKS-68-2019] 68/Pid.Sus/2019/PN Bks | Jenis: Ganja (THC) Golongan I (0.779 gr) | Pasal: Pasal 111 ayat (1) UU 35/2009 | Vonis: 48 bln | Denda: Rp 800000000
+6. [BKS-879-2020] 879/Pid.Sus/2020/PN Bks | Jenis: Ganja (THC) Golongan I (42.71 gr) | Pasal: Pasal 111 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 | Vonis: 48 bln | Denda: Rp 1000000000
+7. [BKS-682-2020] 682/Pid.Sus/2020/PN Bks | Jenis: Ganja (THC) Golongan I (1.8826 gr) | Pasal: Pasal 111 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
+8. [BKS-460-2020] 460/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1271 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
+9. [BKS-692-2020] 692/Pid.Sus/2020/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.2826 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
+10. [BKS-1341-2018] 1341/Pid.Sus/2018/PN Bks | Jenis: Metamfetamina (shabu) Golongan I (0.1336 gr) | Pasal: Pasal 112 ayat (1) UU 35/2009 | Vonis: 54 bln | Denda: Rp 1000000000
 ... (menampilkan 10 data teratas dari total 50)
-
-=========================================================
-   SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
-   Total Data Aktif di Memori: 50 putusan
-=========================================================
-[Fitur Anggota A - Impor, Pencarian & Penyaringan]
-  1. Impor Data Putusan dari CSV
-  2. Cari Putusan (Case ID / Nomor Perkara + Step Count)
-  3. Filter Putusan (Jenis / Berat / Pasal / Vonis / Kombinasi)
-[Manajemen Data & CustomStack]
-  4. Tambah Putusan Baru
-  5. Hapus Putusan berdasarkan Case ID
-  6. Undo Perubahan Terakhir (CustomStack)
-[Fitur Anggota B - Pengurutan, Statistik & Ekspor]
-  7. Urutkan Putusan berdasarkan Vonis (Ascending)
-  8. Tampilkan Statistik (Rata-rata Vonis & Total Denda)
-  9. Ekspor Data Aktif ke File CSV
-  0. Keluar
-=========================================================
-Pilih menu (0-9): 6
-[Sukses] Undo berhasil! Total data dikembalikan menjadi 50 putusan.
 
 =========================================================
    SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
@@ -195,8 +151,8 @@ Pilih menu (0-9): 8
 
 [Statistik Putusan Narkotika]
 - Jumlah Putusan   : 50 perkara
-- Rata-rata Vonis  : 57,00 bulan penjara
-- Total Pidana Denda: Rp 41.800.000.000
+- Rata-rata Vonis  : 72,00 bulan penjara
+- Total Pidana Denda: Rp 48.000.000.000
 
 =========================================================
    SISTEM ANALISIS PUTUSAN NARKOTIKA (KELOMPOK 8)        
