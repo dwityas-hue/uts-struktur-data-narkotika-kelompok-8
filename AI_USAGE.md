@@ -1,4 +1,5 @@
 ## Log Penggunaan AI [11 November 2026]
+
 **Anggota:** Dwi Susilaningtyas  
 **Alat AI:** Gemini  
 **Tujuan:** Merancang struktur data `DynamicArray<T>`, model `Putusan`, parser impor CSV, fitur pencarian (*step count*) dan filter multi-kriteria, unit test JUnit 5, serta integrasi menu CLI `MainApp`.  

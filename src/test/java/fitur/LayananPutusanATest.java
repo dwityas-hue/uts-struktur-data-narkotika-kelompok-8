@@ -49,8 +49,8 @@ class LayananPutusanATest {
         assertEquals(50, hasil.getJumlahBerhasil(), "Harus berhasil mengimpor 50 data putusan valid.");
         assertEquals(0, hasil.getJumlahGagal(), "Dataset utama tidak boleh memiliki baris rusak.");
         assertEquals(50, hasil.getDataValid().size());
-        assertEquals("P001", hasil.getDataValid().get(0).getCaseId());
-        assertEquals("P050", hasil.getDataValid().get(49).getCaseId());
+        assertEquals("BKS-84-2018", hasil.getDataValid().get(0).getCaseId());
+        assertEquals("BKS-571-2019", hasil.getDataValid().get(49).getCaseId());
     }
 
     @Test
